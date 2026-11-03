@@ -1,0 +1,563 @@
+[
+ {
+  "w": "sagacious",
+  "p": "adj.",
+  "d": "wise and showing good judgment",
+  "e": "The sagacious elder settled the dispute fairly.",
+  "s": [
+   "wise",
+   "astute",
+   "judicious"
+  ]
+ },
+ {
+  "w": "salubrious",
+  "p": "adj.",
+  "d": "good for health",
+  "e": "The town is famous for its salubrious mountain air.",
+  "s": [
+   "healthy",
+   "wholesome",
+   "beneficial"
+  ]
+ },
+ {
+  "w": "sanction",
+  "p": "v.",
+  "d": "to give official approval to; also to penalize",
+  "e": "The board sanctioned the new budget.",
+  "s": [
+   "authorize",
+   "approve",
+   "endorse"
+  ]
+ },
+ {
+  "w": "sanguine",
+  "p": "adj.",
+  "d": "cheerfully optimistic",
+  "e": "She remained sanguine about the project's chances.",
+  "s": [
+   "optimistic",
+   "hopeful",
+   "buoyant"
+  ]
+ },
+ {
+  "w": "satiate",
+  "p": "v.",
+  "d": "to satisfy fully",
+  "e": "The large meal satiated the hungry hikers.",
+  "s": [
+   "satisfy",
+   "sate",
+   "fill"
+  ]
+ },
+ {
+  "w": "scrupulous",
+  "p": "adj.",
+  "d": "very careful to be honest and correct",
+  "e": "The scrupulous accountant checked every receipt.",
+  "s": [
+   "meticulous",
+   "conscientious",
+   "principled"
+  ]
+ },
+ {
+  "w": "soporific",
+  "p": "adj.",
+  "d": "causing sleep",
+  "e": "The soporific lecture emptied the back rows.",
+  "s": [
+   "sleep-inducing",
+   "sedative",
+   "tedious"
+  ]
+ },
+ {
+  "w": "specious",
+  "p": "adj.",
+  "d": "seeming true but actually false",
+  "e": "The ad made a specious claim about weight loss.",
+  "s": [
+   "misleading",
+   "fallacious",
+   "spurious"
+  ]
+ },
+ {
+  "w": "sporadic",
+  "p": "adj.",
+  "d": "happening at irregular intervals",
+  "e": "Sporadic rain fell throughout the day.",
+  "s": [
+   "intermittent",
+   "occasional",
+   "irregular"
+  ]
+ },
+ {
+  "w": "spurious",
+  "p": "adj.",
+  "d": "false or fake",
+  "e": "The study was based on spurious data.",
+  "s": [
+   "false",
+   "bogus",
+   "specious"
+  ]
+ },
+ {
+  "w": "squalid",
+  "p": "adj.",
+  "d": "very dirty and unpleasant",
+  "e": "The workers lived in squalid huts.",
+  "s": [
+   "filthy",
+   "sordid",
+   "wretched"
+  ]
+ },
+ {
+  "w": "stolid",
+  "p": "adj.",
+  "d": "calm and showing little emotion",
+  "e": "The stolid farmer barely reacted to the news.",
+  "s": [
+   "impassive",
+   "phlegmatic",
+   "unemotional"
+  ]
+ },
+ {
+  "w": "strident",
+  "p": "adj.",
+  "d": "loud and harsh; forceful in a way that grates",
+  "e": "Strident voices dominated the debate.",
+  "s": [
+   "harsh",
+   "shrill",
+   "vociferous"
+  ]
+ },
+ {
+  "w": "stymie",
+  "p": "v.",
+  "d": "to block or hinder progress",
+  "e": "Red tape stymied the new project.",
+  "s": [
+   "hinder",
+   "thwart",
+   "impede"
+  ]
+ },
+ {
+  "w": "subside",
+  "p": "v.",
+  "d": "to become less intense",
+  "e": "The floodwaters slowly subsided.",
+  "s": [
+   "abate",
+   "recede",
+   "diminish"
+  ]
+ },
+ {
+  "w": "substantiate",
+  "p": "v.",
+  "d": "to support a claim with evidence",
+  "e": "Can you substantiate these figures?",
+  "s": [
+   "corroborate",
+   "verify",
+   "confirm"
+  ]
+ },
+ {
+  "w": "succinct",
+  "p": "adj.",
+  "d": "briefly and clearly expressed",
+  "e": "Give a succinct summary of the chapter.",
+  "s": [
+   "concise",
+   "terse",
+   "pithy"
+  ]
+ },
+ {
+  "w": "superfluous",
+  "p": "adj.",
+  "d": "more than is needed",
+  "e": "Delete the superfluous words in this sentence.",
+  "s": [
+   "unnecessary",
+   "redundant",
+   "excessive"
+  ]
+ },
+ {
+  "w": "supplant",
+  "p": "v.",
+  "d": "to take the place of",
+  "e": "Email has largely supplanted letters.",
+  "s": [
+   "replace",
+   "supersede",
+   "displace"
+  ]
+ },
+ {
+  "w": "sycophant",
+  "p": "n.",
+  "d": "a person who flatters powerful people to gain favor",
+  "e": "The king was surrounded by sycophants.",
+  "s": [
+   "flatterer",
+   "toady",
+   "yes-man"
+  ]
+ },
+ {
+  "w": "taciturn",
+  "p": "adj.",
+  "d": "saying little; reserved in speech",
+  "e": "The taciturn sailor answered only in nods.",
+  "s": [
+   "reticent",
+   "uncommunicative",
+   "laconic"
+  ]
+ },
+ {
+  "w": "tantamount",
+  "p": "adj.",
+  "d": "equivalent in effect or meaning",
+  "e": "Silence was tantamount to agreement.",
+  "s": [
+   "equivalent",
+   "equal",
+   "synonymous"
+  ]
+ },
+ {
+  "w": "temerity",
+  "p": "n.",
+  "d": "reckless boldness",
+  "e": "He had the temerity to question the judge.",
+  "s": [
+   "audacity",
+   "nerve",
+   "effrontery"
+  ]
+ },
+ {
+  "w": "tenacious",
+  "p": "adj.",
+  "d": "holding firmly; persistent",
+  "e": "The tenacious reporter followed the story for years.",
+  "s": [
+   "persistent",
+   "determined",
+   "dogged"
+  ]
+ },
+ {
+  "w": "tenuous",
+  "p": "adj.",
+  "d": "very weak or slight",
+  "e": "The link between the two events is tenuous.",
+  "s": [
+   "flimsy",
+   "weak",
+   "slender"
+  ]
+ },
+ {
+  "w": "terse",
+  "p": "adj.",
+  "d": "using few words, sometimes rudely",
+  "e": "Her terse email said only \"Denied\".",
+  "s": [
+   "curt",
+   "brusque",
+   "succinct"
+  ]
+ },
+ {
+  "w": "tirade",
+  "p": "n.",
+  "d": "a long, angry speech of criticism",
+  "e": "The tirade lasted ten minutes.",
+  "s": [
+   "diatribe",
+   "harangue",
+   "rant"
+  ]
+ },
+ {
+  "w": "torpor",
+  "p": "n.",
+  "d": "a state of physical or mental inactivity",
+  "e": "The summer heat brought on a deep torpor.",
+  "s": [
+   "lethargy",
+   "sluggishness",
+   "inertia"
+  ]
+ },
+ {
+  "w": "tractable",
+  "p": "adj.",
+  "d": "easy to control or manage",
+  "e": "The new puppy was surprisingly tractable.",
+  "s": [
+   "manageable",
+   "docile",
+   "compliant"
+  ]
+ },
+ {
+  "w": "transient",
+  "p": "adj.",
+  "d": "lasting only a short time",
+  "e": "The pain was transient and soon gone.",
+  "s": [
+   "fleeting",
+   "ephemeral",
+   "temporary"
+  ]
+ },
+ {
+  "w": "trepidation",
+  "p": "n.",
+  "d": "fear or anxiety about what may happen",
+  "e": "She opened the results with trepidation.",
+  "s": [
+   "apprehension",
+   "dread",
+   "anxiety"
+  ]
+ },
+ {
+  "w": "trite",
+  "p": "adj.",
+  "d": "overused and lacking originality",
+  "e": "The ending was trite and predictable.",
+  "s": [
+   "hackneyed",
+   "banal",
+   "clichéd"
+  ]
+ },
+ {
+  "w": "truculent",
+  "p": "adj.",
+  "d": "eager to argue or fight; aggressively defiant",
+  "e": "The truculent customer shouted at the staff.",
+  "s": [
+   "belligerent",
+   "combative",
+   "pugnacious"
+  ]
+ },
+ {
+  "w": "ubiquitous",
+  "p": "adj.",
+  "d": "found everywhere",
+  "e": "Smartphones are now ubiquitous.",
+  "s": [
+   "omnipresent",
+   "pervasive",
+   "universal"
+  ]
+ },
+ {
+  "w": "unassailable",
+  "p": "adj.",
+  "d": "unable to be attacked or questioned",
+  "e": "Her lead in the polls was unassailable.",
+  "s": [
+   "invulnerable",
+   "indisputable",
+   "impregnable"
+  ]
+ },
+ {
+  "w": "undermine",
+  "p": "v.",
+  "d": "to weaken gradually or secretly",
+  "e": "Constant delays undermined trust in the project.",
+  "s": [
+   "weaken",
+   "subvert",
+   "erode"
+  ]
+ },
+ {
+  "w": "unequivocal",
+  "p": "adj.",
+  "d": "leaving no doubt; clear",
+  "e": "The answer was an unequivocal yes.",
+  "s": [
+   "unambiguous",
+   "definite",
+   "explicit"
+  ]
+ },
+ {
+  "w": "untenable",
+  "p": "adj.",
+  "d": "not able to be defended or maintained",
+  "e": "The theory became untenable after the new findings.",
+  "s": [
+   "indefensible",
+   "unsustainable",
+   "unjustifiable"
+  ]
+ },
+ {
+  "w": "vacillate",
+  "p": "v.",
+  "d": "to keep changing one's mind",
+  "e": "He vacillated between the two job offers.",
+  "s": [
+   "waver",
+   "dither",
+   "oscillate"
+  ]
+ },
+ {
+  "w": "venerate",
+  "p": "v.",
+  "d": "to regard with great respect",
+  "e": "The village venerates its founders.",
+  "s": [
+   "revere",
+   "honor",
+   "esteem"
+  ]
+ },
+ {
+  "w": "veracity",
+  "p": "n.",
+  "d": "truthfulness; accuracy",
+  "e": "Reporters checked the veracity of the claim.",
+  "s": [
+   "truthfulness",
+   "accuracy",
+   "honesty"
+  ]
+ },
+ {
+  "w": "verbose",
+  "p": "adj.",
+  "d": "using more words than needed",
+  "e": "The verbose report could be half as long.",
+  "s": [
+   "wordy",
+   "prolix",
+   "long-winded"
+  ]
+ },
+ {
+  "w": "vex",
+  "p": "v.",
+  "d": "to annoy or worry",
+  "e": "The puzzle vexed him all evening.",
+  "s": [
+   "irritate",
+   "annoy",
+   "perplex"
+  ]
+ },
+ {
+  "w": "vindicate",
+  "p": "v.",
+  "d": "to clear of blame or show to be right",
+  "e": "The results vindicated her approach.",
+  "s": [
+   "justify",
+   "exonerate",
+   "validate"
+  ]
+ },
+ {
+  "w": "viscous",
+  "p": "adj.",
+  "d": "thick and sticky, slow to flow",
+  "e": "Honey is more viscous than water.",
+  "s": [
+   "thick",
+   "gluey",
+   "syrupy"
+  ]
+ },
+ {
+  "w": "vitriolic",
+  "p": "adj.",
+  "d": "filled with bitter criticism",
+  "e": "The vitriolic review hurt the young author.",
+  "s": [
+   "caustic",
+   "scathing",
+   "venomous"
+  ]
+ },
+ {
+  "w": "volatile",
+  "p": "adj.",
+  "d": "likely to change suddenly and unpredictably",
+  "e": "The market was volatile all year.",
+  "s": [
+   "unstable",
+   "mercurial",
+   "erratic"
+  ]
+ },
+ {
+  "w": "wane",
+  "p": "v.",
+  "d": "to decrease in strength or size",
+  "e": "Interest in the fad soon waned.",
+  "s": [
+   "diminish",
+   "decline",
+   "ebb"
+  ]
+ },
+ {
+  "w": "wary",
+  "p": "adj.",
+  "d": "cautious about possible danger",
+  "e": "Hikers stayed wary of loose rocks.",
+  "s": [
+   "cautious",
+   "chary",
+   "leery"
+  ]
+ },
+ {
+  "w": "whimsical",
+  "p": "adj.",
+  "d": "playfully unusual",
+  "e": "The whimsical garden had teapot planters.",
+  "s": [
+   "fanciful",
+   "playful",
+   "quirky"
+  ]
+ },
+ {
+  "w": "zealous",
+  "p": "adj.",
+  "d": "having great energy and enthusiasm for a cause",
+  "e": "The zealous volunteers knocked on every door.",
+  "s": [
+   "fervent",
+   "ardent",
+   "passionate"
+  ]
+ }
+]

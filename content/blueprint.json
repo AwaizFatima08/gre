@@ -1,0 +1,715 @@
+{
+ "papers": 20,
+ "sections": [
+  {
+   "key": "verbal",
+   "title": "Verbal Reasoning",
+   "topics": [
+    {
+     "key": "tc1",
+     "prefix": "vt",
+     "title": "Text Completion: one blank",
+     "set_size": 0,
+     "practice": 30,
+     "scope": "Single-sentence or short two-sentence items with one blank and five choices. Contrast, cause, restatement and degree clues; GRE-level vocabulary (e.g. laconic, obdurate, mitigate, equivocal).",
+     "test": {
+      "any/L1": 60,
+      "any/L2": 20,
+      "any/L3": 40
+     },
+     "test_unit": "questions"
+    },
+    {
+     "key": "tc23",
+     "prefix": "vd",
+     "title": "Text Completion: two and three blanks",
+     "set_size": 0,
+     "practice": 30,
+     "scope": "Two- or three-blank passages of 1-5 sentences; three choices per blank, no credit unless every blank is right. Logical structure, tone and idiom, not just vocabulary.",
+     "test": {
+      "any/L1": 20,
+      "any/L2": 80,
+      "any/L3": 60
+     },
+     "test_unit": "questions"
+    },
+    {
+     "key": "se",
+     "prefix": "vs",
+     "title": "Sentence Equivalence",
+     "set_size": 0,
+     "practice": 30,
+     "scope": "One sentence, one blank, six choices; exactly two choices give sentences alike in meaning. Include near-synonym traps that do not fit the sentence and pairs of synonyms that both fail.",
+     "test": {
+      "any/L1": 60,
+      "any/L2": 60,
+      "any/L3": 60
+     },
+     "test_unit": "questions"
+    },
+    {
+     "key": "rcs",
+     "prefix": "vr",
+     "title": "Reading: short passages",
+     "set_size": 2,
+     "practice": 10,
+     "scope": "Passages of 100-170 words (sciences, humanities, social sciences, business) with 2 questions each: main idea, detail, inference, function of a sentence, author's attitude, vocabulary in context, select-all, select-in-passage.",
+     "test": {
+      "any/L1": 20,
+      "any/L2": 40,
+      "any/L3": 20
+     },
+     "test_unit": "sets"
+    },
+    {
+     "key": "rcl",
+     "prefix": "vl",
+     "title": "Reading: long passages",
+     "set_size": 3,
+     "practice": 6,
+     "scope": "Passages of 330-450 words with 3 questions each; structure and purpose of paragraphs, contrasting views, inference, detail, select-all, select-in-passage.",
+     "test": {
+      "any/L1": 20,
+      "any/L3": 20
+     },
+     "test_unit": "sets"
+    },
+    {
+     "key": "arg",
+     "prefix": "va",
+     "title": "Reading: argument paragraphs",
+     "set_size": 1,
+     "practice": 20,
+     "scope": "One paragraph of 60-130 words presenting an argument, plan or puzzling fact with one question: weaken, strengthen, assumption, explain the discrepancy, role of a boldface portion, inference, flaw.",
+     "test": {
+      "any/L1": 20,
+      "any/L2": 40,
+      "any/L3": 40
+     },
+     "test_unit": "sets"
+    }
+   ]
+  },
+  {
+   "key": "quant",
+   "title": "Quantitative Reasoning",
+   "topics": [
+    {
+     "key": "num",
+     "prefix": "qn",
+     "title": "Integers and number properties",
+     "set_size": 0,
+     "practice": 25,
+     "scope": "Divisibility, factors and multiples, primes, GCD/LCM, remainders, odd/even, positive/negative, consecutive integers, digits, number line.",
+     "test": {
+      "ps/L2": 40,
+      "qc/L1": 40,
+      "qc/L3": 20
+     },
+     "test_unit": "questions"
+    },
+    {
+     "key": "frac",
+     "prefix": "qf",
+     "title": "Fractions, decimals, percents and ratios",
+     "set_size": 0,
+     "practice": 25,
+     "scope": "Fraction and decimal arithmetic, percent change, successive percents, ratios and proportions, estimation, place value.",
+     "test": {
+      "ps/L1": 20,
+      "qc/L1": 20,
+      "qc/L2": 20
+     },
+     "test_unit": "questions"
+    },
+    {
+     "key": "exp",
+     "prefix": "qe",
+     "title": "Exponents, roots and absolute value",
+     "set_size": 0,
+     "practice": 25,
+     "scope": "Exponent rules, negative and fractional exponents, roots, scientific notation, absolute value, comparing powers.",
+     "test": {
+      "ps/L1": 20,
+      "ps/L3": 20,
+      "qc/L2": 20
+     },
+     "test_unit": "questions"
+    },
+    {
+     "key": "alg",
+     "prefix": "qa",
+     "title": "Algebra: equations and inequalities",
+     "set_size": 0,
+     "practice": 25,
+     "scope": "Linear equations, systems, inequalities (including with absolute value), simplifying expressions, factoring, symbolic manipulation.",
+     "test": {
+      "ps/L1": 20,
+      "ps/L3": 20,
+      "qc/L2": 20,
+      "qc/L3": 20
+     },
+     "test_unit": "questions"
+    },
+    {
+     "key": "fun",
+     "prefix": "qx",
+     "title": "Functions, quadratics and coordinate geometry",
+     "set_size": 0,
+     "practice": 25,
+     "scope": "Function notation and custom operations, quadratics and roots, slopes, lines, intercepts, distance and midpoint, parabolas, graphs of functions.",
+     "test": {
+      "ps/L1": 20,
+      "ps/L2": 20,
+      "ps/L3": 20
+     },
+     "test_unit": "questions"
+    },
+    {
+     "key": "word",
+     "prefix": "qw",
+     "title": "Word problems",
+     "set_size": 0,
+     "practice": 25,
+     "scope": "Rates, speed and work, mixtures, simple and compound interest, profit and cost, ages, sequences, unit conversion.",
+     "test": {
+      "ps/L1": 20,
+      "ps/L2": 60,
+      "ps/L3": 40
+     },
+     "test_unit": "questions"
+    },
+    {
+     "key": "geo1",
+     "prefix": "qg",
+     "title": "Lines, angles, triangles and polygons",
+     "set_size": 0,
+     "practice": 25,
+     "scope": "Parallel lines and angles, triangle angle and side rules, Pythagorean theorem and special right triangles, similar and congruent triangles, quadrilaterals and polygons, perimeter and area.",
+     "test": {
+      "ps/L2": 20,
+      "ps/L3": 20,
+      "qc/L2": 20
+     },
+     "test_unit": "questions"
+    },
+    {
+     "key": "geo2",
+     "prefix": "qo",
+     "title": "Circles, solids and coordinate figures",
+     "set_size": 0,
+     "practice": 25,
+     "scope": "Circles (arcs, sectors, chords, tangents, inscribed angles), area of composite figures, rectangular solids and cylinders (volume, surface area), figures on the coordinate plane.",
+     "test": {
+      "ps/L2": 20,
+      "qc/L2": 20,
+      "qc/L3": 20
+     },
+     "test_unit": "questions"
+    },
+    {
+     "key": "stat",
+     "prefix": "qs",
+     "title": "Statistics",
+     "set_size": 0,
+     "practice": 25,
+     "scope": "Mean, median, mode, range, standard deviation (concept), weighted averages, quartiles and percentiles, box plots, normal distribution, frequency distributions.",
+     "test": {
+      "qc/L1": 20,
+      "qc/L2": 20,
+      "qc/L3": 20
+     },
+     "test_unit": "questions"
+    },
+    {
+     "key": "prob",
+     "prefix": "qp",
+     "title": "Counting, probability and sets",
+     "set_size": 0,
+     "practice": 25,
+     "scope": "Counting principle, permutations and combinations, probability of independent and dependent events, at least one, Venn diagrams and overlapping sets.",
+     "test": {
+      "ps/L2": 40,
+      "ps/L3": 20
+     },
+     "test_unit": "questions"
+    },
+    {
+     "key": "di",
+     "prefix": "qd",
+     "title": "Data interpretation",
+     "set_size": 3,
+     "practice": 5,
+     "scope": "A table or graph (bar, line, pie) shared by 3 questions: reading values, percent and percent change, ratios, estimation, combining two data displays.",
+     "test": {
+      "any/L1": 20,
+      "any/L3": 20
+     },
+     "test_unit": "sets"
+    }
+   ]
+  },
+  {
+   "key": "writing",
+   "title": "Analytical Writing",
+   "topics": [
+    {
+     "key": "issue",
+     "prefix": "wi",
+     "title": "Analyze an Issue",
+     "set_size": 0,
+     "practice": 10,
+     "scope": "An issue statement with one of the official-style task instructions; a model essay scoring 6 and the key points of a strong response.",
+     "test": {
+      "any/L2": 20
+     },
+     "test_unit": "questions"
+    }
+   ]
+  }
+ ],
+ "writing": {
+  "minutes": 30,
+  "test_prompts": 20
+ },
+ "measures": {
+  "verbal": {
+   "title": "Verbal Reasoning",
+   "minutes": [
+    18,
+    23
+   ],
+   "counts": [
+    12,
+    15
+   ],
+   "stages": {
+    "s1": [
+     {
+      "topic": "tc1",
+      "kind": null,
+      "level": 1,
+      "count": 1
+     },
+     {
+      "topic": "tc1",
+      "kind": null,
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "tc23",
+      "kind": null,
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "tc23",
+      "kind": null,
+      "level": 3,
+      "count": 1
+     },
+     {
+      "topic": "se",
+      "kind": null,
+      "level": 1,
+      "count": 1
+     },
+     {
+      "topic": "se",
+      "kind": null,
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "se",
+      "kind": null,
+      "level": 3,
+      "count": 1
+     },
+     {
+      "topic": "rcs",
+      "kind": null,
+      "level": 1,
+      "count": 1
+     },
+     {
+      "topic": "rcs",
+      "kind": null,
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "arg",
+      "kind": null,
+      "level": 3,
+      "count": 1
+     }
+    ],
+    "easy": [
+     {
+      "topic": "tc1",
+      "kind": null,
+      "level": 1,
+      "count": 2
+     },
+     {
+      "topic": "tc23",
+      "kind": null,
+      "level": 1,
+      "count": 1
+     },
+     {
+      "topic": "tc23",
+      "kind": null,
+      "level": 2,
+      "count": 2
+     },
+     {
+      "topic": "se",
+      "kind": null,
+      "level": 1,
+      "count": 2
+     },
+     {
+      "topic": "se",
+      "kind": null,
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "rcl",
+      "kind": null,
+      "level": 1,
+      "count": 1
+     },
+     {
+      "topic": "rcs",
+      "kind": null,
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "arg",
+      "kind": null,
+      "level": 1,
+      "count": 1
+     },
+     {
+      "topic": "arg",
+      "kind": null,
+      "level": 2,
+      "count": 1
+     }
+    ],
+    "hard": [
+     {
+      "topic": "tc1",
+      "kind": null,
+      "level": 3,
+      "count": 2
+     },
+     {
+      "topic": "tc23",
+      "kind": null,
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "tc23",
+      "kind": null,
+      "level": 3,
+      "count": 2
+     },
+     {
+      "topic": "se",
+      "kind": null,
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "se",
+      "kind": null,
+      "level": 3,
+      "count": 2
+     },
+     {
+      "topic": "rcl",
+      "kind": null,
+      "level": 3,
+      "count": 1
+     },
+     {
+      "topic": "rcs",
+      "kind": null,
+      "level": 3,
+      "count": 1
+     },
+     {
+      "topic": "arg",
+      "kind": null,
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "arg",
+      "kind": null,
+      "level": 3,
+      "count": 1
+     }
+    ]
+   }
+  },
+  "quant": {
+   "title": "Quantitative Reasoning",
+   "minutes": [
+    21,
+    26
+   ],
+   "counts": [
+    12,
+    15
+   ],
+   "stages": {
+    "s1": [
+     {
+      "topic": "num",
+      "kind": "qc",
+      "level": 1,
+      "count": 1
+     },
+     {
+      "topic": "exp",
+      "kind": "qc",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "geo1",
+      "kind": "qc",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "stat",
+      "kind": "qc",
+      "level": 3,
+      "count": 1
+     },
+     {
+      "topic": "frac",
+      "kind": "ps",
+      "level": 1,
+      "count": 1
+     },
+     {
+      "topic": "alg",
+      "kind": "ps",
+      "level": 1,
+      "count": 1
+     },
+     {
+      "topic": "fun",
+      "kind": "ps",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "word",
+      "kind": "ps",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "geo2",
+      "kind": "ps",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "prob",
+      "kind": "ps",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "word",
+      "kind": "ps",
+      "level": 3,
+      "count": 1
+     },
+     {
+      "topic": "alg",
+      "kind": "ps",
+      "level": 3,
+      "count": 1
+     }
+    ],
+    "easy": [
+     {
+      "topic": "num",
+      "kind": "qc",
+      "level": 1,
+      "count": 1
+     },
+     {
+      "topic": "frac",
+      "kind": "qc",
+      "level": 1,
+      "count": 1
+     },
+     {
+      "topic": "geo2",
+      "kind": "qc",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "alg",
+      "kind": "qc",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "stat",
+      "kind": "qc",
+      "level": 1,
+      "count": 1
+     },
+     {
+      "topic": "exp",
+      "kind": "ps",
+      "level": 1,
+      "count": 1
+     },
+     {
+      "topic": "fun",
+      "kind": "ps",
+      "level": 1,
+      "count": 1
+     },
+     {
+      "topic": "word",
+      "kind": "ps",
+      "level": 1,
+      "count": 1
+     },
+     {
+      "topic": "geo1",
+      "kind": "ps",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "prob",
+      "kind": "ps",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "word",
+      "kind": "ps",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "num",
+      "kind": "ps",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "di",
+      "kind": null,
+      "level": 1,
+      "count": 1
+     }
+    ],
+    "hard": [
+     {
+      "topic": "num",
+      "kind": "qc",
+      "level": 3,
+      "count": 1
+     },
+     {
+      "topic": "frac",
+      "kind": "qc",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "geo2",
+      "kind": "qc",
+      "level": 3,
+      "count": 1
+     },
+     {
+      "topic": "alg",
+      "kind": "qc",
+      "level": 3,
+      "count": 1
+     },
+     {
+      "topic": "stat",
+      "kind": "qc",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "exp",
+      "kind": "ps",
+      "level": 3,
+      "count": 1
+     },
+     {
+      "topic": "fun",
+      "kind": "ps",
+      "level": 3,
+      "count": 1
+     },
+     {
+      "topic": "word",
+      "kind": "ps",
+      "level": 3,
+      "count": 1
+     },
+     {
+      "topic": "geo1",
+      "kind": "ps",
+      "level": 3,
+      "count": 1
+     },
+     {
+      "topic": "prob",
+      "kind": "ps",
+      "level": 3,
+      "count": 1
+     },
+     {
+      "topic": "word",
+      "kind": "ps",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "num",
+      "kind": "ps",
+      "level": 2,
+      "count": 1
+     },
+     {
+      "topic": "di",
+      "kind": null,
+      "level": 3,
+      "count": 1
+     }
+    ]
+   }
+  }
+ },
+ "route_hard_at": {
+  "verbal": 7,
+  "quant": 7
+ }
+}

@@ -1,0 +1,1038 @@
+[
+ {
+  "w": "dearth",
+  "p": "n.",
+  "d": "a shortage or lack of something",
+  "e": "A dearth of rain left the fields dry.",
+  "s": [
+   "scarcity",
+   "paucity",
+   "shortage"
+  ]
+ },
+ {
+  "w": "debacle",
+  "p": "n.",
+  "d": "a sudden and complete failure",
+  "e": "The product launch was a debacle.",
+  "s": [
+   "fiasco",
+   "disaster",
+   "catastrophe"
+  ]
+ },
+ {
+  "w": "decorum",
+  "p": "n.",
+  "d": "polite and proper behavior",
+  "e": "The judge demanded decorum in the courtroom.",
+  "s": [
+   "propriety",
+   "etiquette",
+   "dignity"
+  ]
+ },
+ {
+  "w": "deference",
+  "p": "n.",
+  "d": "polite respect for the opinions or wishes of others",
+  "e": "In deference to her age, they let her speak first.",
+  "s": [
+   "respect",
+   "regard",
+   "homage"
+  ]
+ },
+ {
+  "w": "deleterious",
+  "p": "adj.",
+  "d": "causing harm or damage",
+  "e": "Lack of sleep has deleterious effects on memory.",
+  "s": [
+   "harmful",
+   "detrimental",
+   "injurious"
+  ]
+ },
+ {
+  "w": "demur",
+  "p": "v.",
+  "d": "to raise objections or show reluctance",
+  "e": "When asked to chair the meeting, she demurred.",
+  "s": [
+   "object",
+   "hesitate",
+   "balk"
+  ]
+ },
+ {
+  "w": "denigrate",
+  "p": "v.",
+  "d": "to criticize unfairly; to belittle",
+  "e": "He denigrated his rival's achievements.",
+  "s": [
+   "disparage",
+   "belittle",
+   "malign"
+  ]
+ },
+ {
+  "w": "deride",
+  "p": "v.",
+  "d": "to mock or treat with contempt",
+  "e": "Critics derided the early experiments as foolish.",
+  "s": [
+   "ridicule",
+   "scorn",
+   "mock"
+  ]
+ },
+ {
+  "w": "derivative",
+  "p": "adj.",
+  "d": "copied from or based on other work; not original",
+  "e": "The band's first album was derivative of older rock.",
+  "s": [
+   "imitative",
+   "unoriginal"
+  ]
+ },
+ {
+  "w": "desiccate",
+  "p": "v.",
+  "d": "to dry out completely",
+  "e": "The sun desiccated the fallen leaves.",
+  "s": [
+   "dehydrate",
+   "parch"
+  ]
+ },
+ {
+  "w": "desultory",
+  "p": "adj.",
+  "d": "lacking a plan or purpose; random",
+  "e": "They made desultory conversation while waiting.",
+  "s": [
+   "aimless",
+   "haphazard",
+   "random"
+  ]
+ },
+ {
+  "w": "diatribe",
+  "p": "n.",
+  "d": "a bitter, angry attack in speech or writing",
+  "e": "His letter was a long diatribe against modern art.",
+  "s": [
+   "tirade",
+   "harangue",
+   "invective"
+  ]
+ },
+ {
+  "w": "didactic",
+  "p": "adj.",
+  "d": "intended to teach, often in a preachy way",
+  "e": "The didactic novel lectured readers about thrift.",
+  "s": [
+   "instructive",
+   "moralizing",
+   "pedagogic"
+  ]
+ },
+ {
+  "w": "diffident",
+  "p": "adj.",
+  "d": "shy and lacking self-confidence",
+  "e": "The diffident student rarely raised her hand.",
+  "s": [
+   "timid",
+   "reserved",
+   "bashful"
+  ]
+ },
+ {
+  "w": "digress",
+  "p": "v.",
+  "d": "to wander from the main topic",
+  "e": "The speaker digressed into stories about his dog.",
+  "s": [
+   "deviate",
+   "stray",
+   "ramble"
+  ]
+ },
+ {
+  "w": "dilatory",
+  "p": "adj.",
+  "d": "slow to act; causing delay",
+  "e": "The dilatory response made the crisis worse.",
+  "s": [
+   "tardy",
+   "sluggish",
+   "procrastinating"
+  ]
+ },
+ {
+  "w": "dilettante",
+  "p": "n.",
+  "d": "a person with a casual, shallow interest in a subject",
+  "e": "He was a dilettante who dabbled in painting and poetry.",
+  "s": [
+   "dabbler",
+   "amateur"
+  ]
+ },
+ {
+  "w": "discern",
+  "p": "v.",
+  "d": "to notice or understand something not obvious",
+  "e": "She discerned a pattern in the data.",
+  "s": [
+   "perceive",
+   "detect",
+   "distinguish"
+  ]
+ },
+ {
+  "w": "discordant",
+  "p": "adj.",
+  "d": "not in agreement; harsh-sounding",
+  "e": "The witnesses gave discordant accounts.",
+  "s": [
+   "conflicting",
+   "dissonant",
+   "incompatible"
+  ]
+ },
+ {
+  "w": "discrete",
+  "p": "adj.",
+  "d": "separate and distinct",
+  "e": "The process has four discrete steps.",
+  "s": [
+   "separate",
+   "distinct",
+   "individual"
+  ]
+ },
+ {
+  "w": "disingenuous",
+  "p": "adj.",
+  "d": "pretending to be honest or naive while not being so",
+  "e": "His claim to know nothing about the deal was disingenuous.",
+  "s": [
+   "insincere",
+   "deceitful",
+   "duplicitous"
+  ]
+ },
+ {
+  "w": "disparage",
+  "p": "v.",
+  "d": "to speak of as having little value",
+  "e": "She never disparaged her competitors in public.",
+  "s": [
+   "belittle",
+   "denigrate",
+   "deprecate"
+  ]
+ },
+ {
+  "w": "disparate",
+  "p": "adj.",
+  "d": "very different in kind",
+  "e": "The museum joins disparate collections under one roof.",
+  "s": [
+   "dissimilar",
+   "diverse",
+   "heterogeneous"
+  ]
+ },
+ {
+  "w": "dissemble",
+  "p": "v.",
+  "d": "to hide one's true feelings or motives",
+  "e": "He dissembled his disappointment with a smile.",
+  "s": [
+   "feign",
+   "pretend",
+   "disguise"
+  ]
+ },
+ {
+  "w": "disseminate",
+  "p": "v.",
+  "d": "to spread widely",
+  "e": "The agency disseminated safety advice through radio.",
+  "s": [
+   "spread",
+   "circulate",
+   "propagate"
+  ]
+ },
+ {
+  "w": "dissonance",
+  "p": "n.",
+  "d": "lack of harmony or agreement",
+  "e": "There was dissonance between the company's words and actions.",
+  "s": [
+   "discord",
+   "conflict",
+   "disharmony"
+  ]
+ },
+ {
+  "w": "distend",
+  "p": "v.",
+  "d": "to swell outward from pressure inside",
+  "e": "The balloon distended as it filled.",
+  "s": [
+   "swell",
+   "bloat",
+   "expand"
+  ]
+ },
+ {
+  "w": "dither",
+  "p": "v.",
+  "d": "to be unable to make a decision",
+  "e": "They dithered over the menu for twenty minutes.",
+  "s": [
+   "hesitate",
+   "waver",
+   "vacillate"
+  ]
+ },
+ {
+  "w": "divergent",
+  "p": "adj.",
+  "d": "moving apart; differing",
+  "e": "The two scholars held divergent views on the dating of the text.",
+  "s": [
+   "differing",
+   "conflicting",
+   "dissimilar"
+  ]
+ },
+ {
+  "w": "dogmatic",
+  "p": "adj.",
+  "d": "stating opinions as certainly true and refusing other views",
+  "e": "A dogmatic manager rarely listens to new ideas.",
+  "s": [
+   "doctrinaire",
+   "opinionated",
+   "inflexible"
+  ]
+ },
+ {
+  "w": "dormant",
+  "p": "adj.",
+  "d": "temporarily inactive",
+  "e": "The volcano has been dormant for centuries.",
+  "s": [
+   "inactive",
+   "latent",
+   "quiescent"
+  ]
+ },
+ {
+  "w": "ebullient",
+  "p": "adj.",
+  "d": "cheerful and full of energy",
+  "e": "The ebullient host greeted everyone at the door.",
+  "s": [
+   "exuberant",
+   "buoyant",
+   "effervescent"
+  ]
+ },
+ {
+  "w": "eclectic",
+  "p": "adj.",
+  "d": "drawing from many different sources",
+  "e": "Her eclectic taste in music ranged from jazz to folk.",
+  "s": [
+   "diverse",
+   "varied",
+   "wide-ranging"
+  ]
+ },
+ {
+  "w": "efficacy",
+  "p": "n.",
+  "d": "the ability to produce the intended result",
+  "e": "Trials tested the efficacy of the new vaccine.",
+  "s": [
+   "effectiveness",
+   "potency"
+  ]
+ },
+ {
+  "w": "effrontery",
+  "p": "n.",
+  "d": "shocking boldness or rudeness",
+  "e": "He had the effrontery to ask for a raise after missing the deadline.",
+  "s": [
+   "audacity",
+   "impudence",
+   "gall"
+  ]
+ },
+ {
+  "w": "egregious",
+  "p": "adj.",
+  "d": "outstandingly bad",
+  "e": "The report contained egregious errors.",
+  "s": [
+   "flagrant",
+   "glaring",
+   "outrageous"
+  ]
+ },
+ {
+  "w": "elicit",
+  "p": "v.",
+  "d": "to draw out a response or reaction",
+  "e": "The question elicited a long silence.",
+  "s": [
+   "evoke",
+   "provoke",
+   "draw out"
+  ]
+ },
+ {
+  "w": "elucidate",
+  "p": "v.",
+  "d": "to make clear; to explain",
+  "e": "The teacher elucidated the rule with examples.",
+  "s": [
+   "clarify",
+   "explain",
+   "illuminate"
+  ]
+ },
+ {
+  "w": "emollient",
+  "p": "adj.",
+  "d": "soothing; making calmer",
+  "e": "Her emollient words eased the tension.",
+  "s": [
+   "soothing",
+   "calming",
+   "placatory"
+  ]
+ },
+ {
+  "w": "empirical",
+  "p": "adj.",
+  "d": "based on observation or experiment",
+  "e": "The theory needs empirical support.",
+  "s": [
+   "experimental",
+   "observational"
+  ]
+ },
+ {
+  "w": "emulate",
+  "p": "v.",
+  "d": "to try to match or copy someone admired",
+  "e": "Young chess players emulate the champion's style.",
+  "s": [
+   "imitate",
+   "copy",
+   "mirror"
+  ]
+ },
+ {
+  "w": "encomium",
+  "p": "n.",
+  "d": "a speech or text of high praise",
+  "e": "The retiring dean received an encomium from her staff.",
+  "s": [
+   "tribute",
+   "eulogy",
+   "panegyric"
+  ]
+ },
+ {
+  "w": "endemic",
+  "p": "adj.",
+  "d": "regularly found in a particular place or group",
+  "e": "The bird is endemic to two small islands.",
+  "s": [
+   "native",
+   "indigenous"
+  ]
+ },
+ {
+  "w": "enervate",
+  "p": "v.",
+  "d": "to drain of energy",
+  "e": "The heat enervated the hikers.",
+  "s": [
+   "exhaust",
+   "weaken",
+   "sap"
+  ]
+ },
+ {
+  "w": "engender",
+  "p": "v.",
+  "d": "to cause or give rise to",
+  "e": "The policy engendered distrust among workers.",
+  "s": [
+   "produce",
+   "generate",
+   "foster"
+  ]
+ },
+ {
+  "w": "enigmatic",
+  "p": "adj.",
+  "d": "mysterious and difficult to understand",
+  "e": "The painting's enigmatic smile still puzzles viewers.",
+  "s": [
+   "mysterious",
+   "inscrutable",
+   "cryptic"
+  ]
+ },
+ {
+  "w": "ephemeral",
+  "p": "adj.",
+  "d": "lasting a very short time",
+  "e": "Fame on social media is often ephemeral.",
+  "s": [
+   "fleeting",
+   "transient",
+   "evanescent"
+  ]
+ },
+ {
+  "w": "equanimity",
+  "p": "n.",
+  "d": "calmness, especially in difficult situations",
+  "e": "She faced the setback with equanimity.",
+  "s": [
+   "composure",
+   "serenity",
+   "poise"
+  ]
+ },
+ {
+  "w": "equivocal",
+  "p": "adj.",
+  "d": "open to more than one interpretation; ambiguous",
+  "e": "The minister gave an equivocal answer.",
+  "s": [
+   "ambiguous",
+   "vague",
+   "noncommittal"
+  ]
+ },
+ {
+  "w": "equivocate",
+  "p": "v.",
+  "d": "to use unclear language to avoid committing oneself",
+  "e": "When asked about the budget, he equivocated.",
+  "s": [
+   "prevaricate",
+   "hedge",
+   "waffle"
+  ]
+ },
+ {
+  "w": "erudite",
+  "p": "adj.",
+  "d": "having or showing great knowledge",
+  "e": "The erudite professor quoted sources in five languages.",
+  "s": [
+   "learned",
+   "scholarly",
+   "knowledgeable"
+  ]
+ },
+ {
+  "w": "esoteric",
+  "p": "adj.",
+  "d": "understood by only a small group",
+  "e": "The journal publishes esoteric papers on medieval music.",
+  "s": [
+   "arcane",
+   "abstruse",
+   "obscure"
+  ]
+ },
+ {
+  "w": "euphemism",
+  "p": "n.",
+  "d": "a mild word used in place of a harsh one",
+  "e": "\"Let go\" is a euphemism for \"fired\".",
+  "s": [
+   "understatement"
+  ]
+ },
+ {
+  "w": "exacerbate",
+  "p": "v.",
+  "d": "to make a problem worse",
+  "e": "Cutting staff exacerbated the delays.",
+  "s": [
+   "aggravate",
+   "worsen",
+   "compound"
+  ]
+ },
+ {
+  "w": "exculpate",
+  "p": "v.",
+  "d": "to show that someone is not guilty",
+  "e": "New DNA evidence exculpated the prisoner.",
+  "s": [
+   "exonerate",
+   "absolve",
+   "vindicate"
+  ]
+ },
+ {
+  "w": "exigent",
+  "p": "adj.",
+  "d": "needing urgent action",
+  "e": "The exigent situation called for immediate repairs.",
+  "s": [
+   "urgent",
+   "pressing",
+   "critical"
+  ]
+ },
+ {
+  "w": "exonerate",
+  "p": "v.",
+  "d": "to clear from blame",
+  "e": "The inquiry exonerated the pilot.",
+  "s": [
+   "absolve",
+   "exculpate",
+   "acquit"
+  ]
+ },
+ {
+  "w": "expedient",
+  "p": "adj.",
+  "d": "useful for a purpose, though perhaps not fair or right",
+  "e": "It was expedient to delay the vote until more members arrived.",
+  "s": [
+   "advantageous",
+   "convenient",
+   "pragmatic"
+  ]
+ },
+ {
+  "w": "extol",
+  "p": "v.",
+  "d": "to praise highly",
+  "e": "The review extolled the chef's creativity.",
+  "s": [
+   "laud",
+   "acclaim",
+   "praise"
+  ]
+ },
+ {
+  "w": "extraneous",
+  "p": "adj.",
+  "d": "not relevant or essential",
+  "e": "Cut the extraneous details from your essay.",
+  "s": [
+   "irrelevant",
+   "superfluous",
+   "peripheral"
+  ]
+ },
+ {
+  "w": "facetious",
+  "p": "adj.",
+  "d": "treating serious matters with inappropriate humor",
+  "e": "His facetious remark during the safety briefing annoyed the trainer.",
+  "s": [
+   "flippant",
+   "glib",
+   "jocular"
+  ]
+ },
+ {
+  "w": "facilitate",
+  "p": "v.",
+  "d": "to make an action or process easier",
+  "e": "The new software facilitates online booking.",
+  "s": [
+   "ease",
+   "enable",
+   "expedite"
+  ]
+ },
+ {
+  "w": "fallacious",
+  "p": "adj.",
+  "d": "based on a mistaken belief or faulty reasoning",
+  "e": "The argument rests on a fallacious premise.",
+  "s": [
+   "erroneous",
+   "false",
+   "specious"
+  ]
+ },
+ {
+  "w": "fastidious",
+  "p": "adj.",
+  "d": "very careful about detail and cleanliness",
+  "e": "The fastidious chef wiped every plate rim.",
+  "s": [
+   "meticulous",
+   "fussy",
+   "exacting"
+  ]
+ },
+ {
+  "w": "fatuous",
+  "p": "adj.",
+  "d": "silly and pointless",
+  "e": "The fatuous question wasted the panel's time.",
+  "s": [
+   "foolish",
+   "inane",
+   "vacuous"
+  ]
+ },
+ {
+  "w": "fawning",
+  "p": "adj.",
+  "d": "trying to win favor through flattery",
+  "e": "The fawning assistant agreed with everything the director said.",
+  "s": [
+   "obsequious",
+   "sycophantic",
+   "servile"
+  ]
+ },
+ {
+  "w": "felicitous",
+  "p": "adj.",
+  "d": "well chosen or suited to the situation",
+  "e": "It was a felicitous choice of words.",
+  "s": [
+   "apt",
+   "fitting",
+   "apposite"
+  ]
+ },
+ {
+  "w": "fervent",
+  "p": "adj.",
+  "d": "showing intense feeling",
+  "e": "She made a fervent appeal for help.",
+  "s": [
+   "ardent",
+   "passionate",
+   "impassioned"
+  ]
+ },
+ {
+  "w": "fervor",
+  "p": "n.",
+  "d": "intense and passionate feeling",
+  "e": "The crowd cheered with fervor.",
+  "s": [
+   "passion",
+   "zeal",
+   "ardor"
+  ]
+ },
+ {
+  "w": "flagrant",
+  "p": "adj.",
+  "d": "obvious and shocking",
+  "e": "It was a flagrant breach of the rules.",
+  "s": [
+   "blatant",
+   "glaring",
+   "egregious"
+  ]
+ },
+ {
+  "w": "fledgling",
+  "p": "adj.",
+  "d": "new and inexperienced",
+  "e": "The fledgling company had just three employees.",
+  "s": [
+   "budding",
+   "emerging",
+   "nascent"
+  ]
+ },
+ {
+  "w": "flout",
+  "p": "v.",
+  "d": "to openly disregard a rule",
+  "e": "Drivers who flout the speed limit will be fined.",
+  "s": [
+   "defy",
+   "disobey",
+   "scorn"
+  ]
+ },
+ {
+  "w": "foment",
+  "p": "v.",
+  "d": "to stir up trouble or conflict",
+  "e": "The rumors fomented unrest in the town.",
+  "s": [
+   "incite",
+   "provoke",
+   "instigate"
+  ]
+ },
+ {
+  "w": "forestall",
+  "p": "v.",
+  "d": "to prevent something by acting in advance",
+  "e": "Quick repairs forestalled a larger failure.",
+  "s": [
+   "preempt",
+   "avert",
+   "prevent"
+  ]
+ },
+ {
+  "w": "fortuitous",
+  "p": "adj.",
+  "d": "happening by chance, often luckily",
+  "e": "Their meeting at the airport was fortuitous.",
+  "s": [
+   "accidental",
+   "serendipitous",
+   "lucky"
+  ]
+ },
+ {
+  "w": "frugal",
+  "p": "adj.",
+  "d": "careful with money; economical",
+  "e": "The frugal family saved for years to buy a house.",
+  "s": [
+   "thrifty",
+   "economical",
+   "parsimonious"
+  ]
+ },
+ {
+  "w": "furtive",
+  "p": "adj.",
+  "d": "done secretly to avoid being noticed",
+  "e": "He cast a furtive look at his phone.",
+  "s": [
+   "stealthy",
+   "surreptitious",
+   "clandestine"
+  ]
+ },
+ {
+  "w": "gainsay",
+  "p": "v.",
+  "d": "to deny or contradict",
+  "e": "No one could gainsay the value of her research.",
+  "s": [
+   "deny",
+   "dispute",
+   "contradict"
+  ]
+ },
+ {
+  "w": "garrulous",
+  "p": "adj.",
+  "d": "talking too much, often about trivial things",
+  "e": "The garrulous passenger talked for the whole flight.",
+  "s": [
+   "talkative",
+   "loquacious",
+   "voluble"
+  ]
+ },
+ {
+  "w": "gauche",
+  "p": "adj.",
+  "d": "socially awkward and unsophisticated",
+  "e": "His gauche joke fell flat at the formal dinner.",
+  "s": [
+   "awkward",
+   "tactless",
+   "maladroit"
+  ]
+ },
+ {
+  "w": "germane",
+  "p": "adj.",
+  "d": "relevant to the subject being discussed",
+  "e": "Her comment was germane to the debate.",
+  "s": [
+   "relevant",
+   "pertinent",
+   "apposite"
+  ]
+ },
+ {
+  "w": "glib",
+  "p": "adj.",
+  "d": "fluent but insincere or shallow",
+  "e": "He gave a glib answer to a complex question.",
+  "s": [
+   "slick",
+   "facile",
+   "superficial"
+  ]
+ },
+ {
+  "w": "grandiloquent",
+  "p": "adj.",
+  "d": "using pompous, inflated language",
+  "e": "The grandiloquent mayor spoke of \"a new dawn for parking\".",
+  "s": [
+   "bombastic",
+   "pompous",
+   "magniloquent"
+  ]
+ },
+ {
+  "w": "gregarious",
+  "p": "adj.",
+  "d": "enjoying the company of others",
+  "e": "The gregarious student joined five clubs.",
+  "s": [
+   "sociable",
+   "outgoing",
+   "convivial"
+  ]
+ },
+ {
+  "w": "guileless",
+  "p": "adj.",
+  "d": "innocent and without deception",
+  "e": "The guileless child repeated the secret at dinner.",
+  "s": [
+   "artless",
+   "ingenuous",
+   "naive"
+  ]
+ },
+ {
+  "w": "gullible",
+  "p": "adj.",
+  "d": "easily tricked or persuaded",
+  "e": "Gullible buyers paid for fake tickets.",
+  "s": [
+   "credulous",
+   "naive",
+   "trusting"
+  ]
+ },
+ {
+  "w": "hackneyed",
+  "p": "adj.",
+  "d": "used so often that it has lost its effect",
+  "e": "The poem relies on hackneyed images of roses.",
+  "s": [
+   "trite",
+   "banal",
+   "clichéd"
+  ]
+ },
+ {
+  "w": "harangue",
+  "p": "n.",
+  "d": "a long, aggressive speech",
+  "e": "The coach delivered a harangue at halftime.",
+  "s": [
+   "tirade",
+   "diatribe",
+   "lecture"
+  ]
+ },
+ {
+  "w": "haughty",
+  "p": "adj.",
+  "d": "proud and looking down on others",
+  "e": "The haughty clerk ignored the waiting customers.",
+  "s": [
+   "arrogant",
+   "supercilious",
+   "disdainful"
+  ]
+ },
+ {
+  "w": "hegemony",
+  "p": "n.",
+  "d": "leadership or dominance of one group over others",
+  "e": "The empire held hegemony over the region for a century.",
+  "s": [
+   "dominance",
+   "supremacy",
+   "ascendancy"
+  ]
+ },
+ {
+  "w": "heresy",
+  "p": "n.",
+  "d": "a belief that goes against accepted views",
+  "e": "Questioning the theory was once considered scientific heresy.",
+  "s": [
+   "dissent",
+   "heterodoxy",
+   "unorthodoxy"
+  ]
+ },
+ {
+  "w": "heterogeneous",
+  "p": "adj.",
+  "d": "made up of different kinds",
+  "e": "The class was a heterogeneous mix of ages and backgrounds.",
+  "s": [
+   "diverse",
+   "varied",
+   "disparate"
+  ]
+ },
+ {
+  "w": "homogeneous",
+  "p": "adj.",
+  "d": "of the same kind throughout",
+  "e": "The sample was homogeneous, with no visible layers.",
+  "s": [
+   "uniform",
+   "consistent",
+   "alike"
+  ]
+ },
+ {
+  "w": "hubris",
+  "p": "n.",
+  "d": "excessive pride or self-confidence",
+  "e": "The general's hubris led to a costly defeat.",
+  "s": [
+   "arrogance",
+   "conceit",
+   "overconfidence"
+  ]
+ },
+ {
+  "w": "hyperbole",
+  "p": "n.",
+  "d": "exaggeration used for effect",
+  "e": "Saying the line was a mile long was hyperbole.",
+  "s": [
+   "exaggeration",
+   "overstatement"
+  ]
+ }
+]

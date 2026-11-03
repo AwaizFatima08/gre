@@ -1,0 +1,1140 @@
+[
+ {
+  "w": "abate",
+  "p": "v.",
+  "d": "to become less strong or intense",
+  "e": "By evening the wind had abated, and the ferries began running again.",
+  "s": [
+   "subside",
+   "diminish",
+   "wane"
+  ]
+ },
+ {
+  "w": "aberrant",
+  "p": "adj.",
+  "d": "different from what is normal or expected",
+  "e": "The scientist rechecked the aberrant reading before reporting it.",
+  "s": [
+   "anomalous",
+   "deviant",
+   "atypical"
+  ]
+ },
+ {
+  "w": "abeyance",
+  "p": "n.",
+  "d": "a state of temporary inactivity or suspension",
+  "e": "The construction plan was held in abeyance until funding was confirmed.",
+  "s": [
+   "suspension",
+   "dormancy"
+  ]
+ },
+ {
+  "w": "abjure",
+  "p": "v.",
+  "d": "to formally give up a belief or claim",
+  "e": "The scientist abjured her earlier theory after the new data appeared.",
+  "s": [
+   "renounce",
+   "repudiate",
+   "forswear"
+  ]
+ },
+ {
+  "w": "abscond",
+  "p": "v.",
+  "d": "to leave secretly and quickly, often to avoid arrest or duty",
+  "e": "The treasurer absconded with the club's savings.",
+  "s": [
+   "flee",
+   "decamp"
+  ]
+ },
+ {
+  "w": "abstain",
+  "p": "v.",
+  "d": "to choose not to do or have something",
+  "e": "Three members abstained from the vote.",
+  "s": [
+   "refrain",
+   "forgo"
+  ]
+ },
+ {
+  "w": "abstruse",
+  "p": "adj.",
+  "d": "hard to understand because it is complex or obscure",
+  "e": "The lecture on abstruse number theory lost most of the audience.",
+  "s": [
+   "arcane",
+   "esoteric",
+   "recondite"
+  ]
+ },
+ {
+  "w": "accolade",
+  "p": "n.",
+  "d": "an award or expression of high praise",
+  "e": "The novel received every major accolade of the year.",
+  "s": [
+   "honor",
+   "tribute"
+  ]
+ },
+ {
+  "w": "acerbic",
+  "p": "adj.",
+  "d": "sharp and harsh in tone or taste",
+  "e": "His acerbic review left the director furious.",
+  "s": [
+   "caustic",
+   "biting",
+   "mordant"
+  ]
+ },
+ {
+  "w": "acquiesce",
+  "p": "v.",
+  "d": "to accept something without protest",
+  "e": "After a long debate, the council acquiesced to the plan.",
+  "s": [
+   "consent",
+   "comply",
+   "yield"
+  ]
+ },
+ {
+  "w": "acumen",
+  "p": "n.",
+  "d": "the ability to make good judgments quickly",
+  "e": "Her business acumen turned a small shop into a regional chain.",
+  "s": [
+   "shrewdness",
+   "astuteness",
+   "insight"
+  ]
+ },
+ {
+  "w": "admonish",
+  "p": "v.",
+  "d": "to warn or criticize someone firmly",
+  "e": "The coach admonished the players for arriving late.",
+  "s": [
+   "reprimand",
+   "rebuke",
+   "chide"
+  ]
+ },
+ {
+  "w": "adulation",
+  "p": "n.",
+  "d": "excessive praise or admiration",
+  "e": "The young pianist was unsettled by the adulation of her fans.",
+  "s": [
+   "worship",
+   "flattery"
+  ]
+ },
+ {
+  "w": "adulterate",
+  "p": "v.",
+  "d": "to make something impure by adding a weaker substance",
+  "e": "The seller adulterated the honey with cheap syrup.",
+  "s": [
+   "contaminate",
+   "debase"
+  ]
+ },
+ {
+  "w": "aesthetic",
+  "p": "adj.",
+  "d": "concerned with beauty or artistic taste",
+  "e": "The architect valued function over aesthetic concerns.",
+  "s": [
+   "artistic"
+  ]
+ },
+ {
+  "w": "affable",
+  "p": "adj.",
+  "d": "friendly and easy to talk to",
+  "e": "The affable guide made the long tour feel short.",
+  "s": [
+   "amiable",
+   "genial",
+   "cordial"
+  ]
+ },
+ {
+  "w": "alacrity",
+  "p": "n.",
+  "d": "cheerful readiness or eagerness",
+  "e": "She accepted the invitation with alacrity.",
+  "s": [
+   "eagerness",
+   "promptness"
+  ]
+ },
+ {
+  "w": "alleviate",
+  "p": "v.",
+  "d": "to make pain or a problem less severe",
+  "e": "The new bus line alleviated crowding on the trains.",
+  "s": [
+   "ease",
+   "relieve",
+   "mitigate"
+  ]
+ },
+ {
+  "w": "amalgamate",
+  "p": "v.",
+  "d": "to combine into one whole",
+  "e": "The two small colleges amalgamated to form a university.",
+  "s": [
+   "merge",
+   "unite",
+   "combine"
+  ]
+ },
+ {
+  "w": "ambivalent",
+  "p": "adj.",
+  "d": "having mixed or opposing feelings about something",
+  "e": "Critics were ambivalent about the film, praising its images but not its plot.",
+  "s": [
+   "conflicted",
+   "uncertain"
+  ]
+ },
+ {
+  "w": "ameliorate",
+  "p": "v.",
+  "d": "to make a bad situation better",
+  "e": "New drainage ameliorated the flooding in the lower town.",
+  "s": [
+   "improve",
+   "alleviate",
+   "mitigate"
+  ]
+ },
+ {
+  "w": "amenable",
+  "p": "adj.",
+  "d": "willing to agree or accept",
+  "e": "The landlord was amenable to a shorter lease.",
+  "s": [
+   "agreeable",
+   "receptive",
+   "compliant"
+  ]
+ },
+ {
+  "w": "amorphous",
+  "p": "adj.",
+  "d": "without a clear shape or structure",
+  "e": "The committee's plans remained amorphous for months.",
+  "s": [
+   "shapeless",
+   "formless",
+   "nebulous"
+  ]
+ },
+ {
+  "w": "anachronism",
+  "p": "n.",
+  "d": "something that seems to belong to a different period of time",
+  "e": "A wristwatch in the medieval painting would be an anachronism.",
+  "s": [
+   "archaism"
+  ]
+ },
+ {
+  "w": "analogous",
+  "p": "adj.",
+  "d": "similar in a way that allows comparison",
+  "e": "The heart is analogous to a pump.",
+  "s": [
+   "comparable",
+   "parallel",
+   "akin"
+  ]
+ },
+ {
+  "w": "anathema",
+  "p": "n.",
+  "d": "something that is strongly disliked or rejected",
+  "e": "Waste was anathema to the thrifty engineer.",
+  "s": [
+   "abomination",
+   "bane"
+  ]
+ },
+ {
+  "w": "anomaly",
+  "p": "n.",
+  "d": "something that does not fit the usual pattern",
+  "e": "The warm week in January was an anomaly in the weather records.",
+  "s": [
+   "aberration",
+   "irregularity",
+   "oddity"
+  ]
+ },
+ {
+  "w": "antipathy",
+  "p": "n.",
+  "d": "a strong feeling of dislike",
+  "e": "His antipathy toward long meetings was well known.",
+  "s": [
+   "aversion",
+   "hostility",
+   "enmity"
+  ]
+ },
+ {
+  "w": "apathy",
+  "p": "n.",
+  "d": "lack of interest or concern",
+  "e": "Voter apathy kept turnout low.",
+  "s": [
+   "indifference",
+   "unconcern"
+  ]
+ },
+ {
+  "w": "apocryphal",
+  "p": "adj.",
+  "d": "widely told but probably not true",
+  "e": "The story of the inventor's dream is likely apocryphal.",
+  "s": [
+   "fictitious",
+   "dubious",
+   "spurious"
+  ]
+ },
+ {
+  "w": "appease",
+  "p": "v.",
+  "d": "to calm someone by giving them what they want",
+  "e": "The manager appeased the customers with free coffee.",
+  "s": [
+   "placate",
+   "pacify",
+   "mollify"
+  ]
+ },
+ {
+  "w": "approbation",
+  "p": "n.",
+  "d": "official approval or praise",
+  "e": "The plan won the approbation of the board.",
+  "s": [
+   "approval",
+   "endorsement",
+   "commendation"
+  ]
+ },
+ {
+  "w": "arbitrary",
+  "p": "adj.",
+  "d": "based on chance or personal whim rather than reason",
+  "e": "The rule seemed arbitrary to the students.",
+  "s": [
+   "capricious",
+   "random",
+   "unreasoned"
+  ]
+ },
+ {
+  "w": "arcane",
+  "p": "adj.",
+  "d": "known or understood by very few people",
+  "e": "The manual was full of arcane technical terms.",
+  "s": [
+   "esoteric",
+   "obscure",
+   "abstruse"
+  ]
+ },
+ {
+  "w": "ardent",
+  "p": "adj.",
+  "d": "very enthusiastic or passionate",
+  "e": "She was an ardent supporter of public libraries.",
+  "s": [
+   "fervent",
+   "passionate",
+   "zealous"
+  ]
+ },
+ {
+  "w": "arduous",
+  "p": "adj.",
+  "d": "very difficult and tiring",
+  "e": "The climb to the summit was arduous.",
+  "s": [
+   "strenuous",
+   "grueling",
+   "onerous"
+  ]
+ },
+ {
+  "w": "articulate",
+  "p": "adj.",
+  "d": "able to express ideas clearly",
+  "e": "The articulate speaker explained the policy in plain terms.",
+  "s": [
+   "eloquent",
+   "fluent",
+   "lucid"
+  ]
+ },
+ {
+  "w": "artless",
+  "p": "adj.",
+  "d": "natural and without deceit",
+  "e": "The child's artless question silenced the room.",
+  "s": [
+   "ingenuous",
+   "guileless",
+   "naive"
+  ]
+ },
+ {
+  "w": "ascetic",
+  "p": "adj.",
+  "d": "avoiding comfort and pleasure, often for spiritual reasons",
+  "e": "The monks lived an ascetic life in the mountains.",
+  "s": [
+   "austere",
+   "abstemious",
+   "spartan"
+  ]
+ },
+ {
+  "w": "assiduous",
+  "p": "adj.",
+  "d": "showing great care and steady effort",
+  "e": "Her assiduous note-taking paid off at exam time.",
+  "s": [
+   "diligent",
+   "sedulous",
+   "industrious"
+  ]
+ },
+ {
+  "w": "assuage",
+  "p": "v.",
+  "d": "to make a feeling or need less intense",
+  "e": "The apology did little to assuage his anger.",
+  "s": [
+   "ease",
+   "relieve",
+   "allay"
+  ]
+ },
+ {
+  "w": "atavistic",
+  "p": "adj.",
+  "d": "relating to a return to ancient or ancestral traits",
+  "e": "The novel explores an atavistic fear of the dark.",
+  "s": [
+   "primitive",
+   "primal"
+  ]
+ },
+ {
+  "w": "attenuate",
+  "p": "v.",
+  "d": "to weaken or reduce in force or amount",
+  "e": "Thick walls attenuate the noise from the street.",
+  "s": [
+   "weaken",
+   "diminish",
+   "dilute"
+  ]
+ },
+ {
+  "w": "audacious",
+  "p": "adj.",
+  "d": "willing to take bold risks",
+  "e": "The audacious plan surprised even her supporters.",
+  "s": [
+   "bold",
+   "daring",
+   "intrepid"
+  ]
+ },
+ {
+  "w": "austere",
+  "p": "adj.",
+  "d": "severely plain and simple; strict",
+  "e": "The austere room held only a bed and a desk.",
+  "s": [
+   "stark",
+   "spartan",
+   "severe"
+  ]
+ },
+ {
+  "w": "avarice",
+  "p": "n.",
+  "d": "extreme greed for wealth",
+  "e": "Avarice led the merchant to cheat his partners.",
+  "s": [
+   "greed",
+   "cupidity"
+  ]
+ },
+ {
+  "w": "aver",
+  "p": "v.",
+  "d": "to state firmly that something is true",
+  "e": "The witness averred that she had seen the car.",
+  "s": [
+   "assert",
+   "affirm",
+   "declare"
+  ]
+ },
+ {
+  "w": "axiomatic",
+  "p": "adj.",
+  "d": "self-evidently true",
+  "e": "It is axiomatic that a budget must balance over time.",
+  "s": [
+   "self-evident",
+   "unquestionable"
+  ]
+ },
+ {
+  "w": "banal",
+  "p": "adj.",
+  "d": "so ordinary that it is boring",
+  "e": "The speech was full of banal remarks about hard work.",
+  "s": [
+   "trite",
+   "hackneyed",
+   "insipid"
+  ]
+ },
+ {
+  "w": "belie",
+  "p": "v.",
+  "d": "to give a false impression of; to contradict",
+  "e": "His calm voice belied his nervousness.",
+  "s": [
+   "disguise",
+   "contradict"
+  ]
+ },
+ {
+  "w": "bellicose",
+  "p": "adj.",
+  "d": "eager to fight or argue",
+  "e": "The bellicose speech alarmed neighboring countries.",
+  "s": [
+   "belligerent",
+   "combative",
+   "pugnacious"
+  ]
+ },
+ {
+  "w": "beneficent",
+  "p": "adj.",
+  "d": "doing good; generous",
+  "e": "The beneficent donor funded scholarships for decades.",
+  "s": [
+   "benevolent",
+   "charitable"
+  ]
+ },
+ {
+  "w": "bilk",
+  "p": "v.",
+  "d": "to cheat someone out of money",
+  "e": "The scheme bilked investors of millions.",
+  "s": [
+   "swindle",
+   "defraud"
+  ]
+ },
+ {
+  "w": "blandish",
+  "p": "v.",
+  "d": "to persuade with flattery",
+  "e": "He blandished the committee into approving his budget.",
+  "s": [
+   "cajole",
+   "coax",
+   "wheedle"
+  ]
+ },
+ {
+  "w": "blithe",
+  "p": "adj.",
+  "d": "cheerful and carefree, sometimes in a careless way",
+  "e": "He showed a blithe disregard for the deadline.",
+  "s": [
+   "casual",
+   "heedless",
+   "carefree"
+  ]
+ },
+ {
+  "w": "bolster",
+  "p": "v.",
+  "d": "to support or strengthen",
+  "e": "New evidence bolstered her theory.",
+  "s": [
+   "reinforce",
+   "buttress",
+   "shore up"
+  ]
+ },
+ {
+  "w": "bombastic",
+  "p": "adj.",
+  "d": "using inflated, showy language with little meaning",
+  "e": "The bombastic advertisement promised a revolution in toothpaste.",
+  "s": [
+   "grandiloquent",
+   "pompous",
+   "turgid"
+  ]
+ },
+ {
+  "w": "boorish",
+  "p": "adj.",
+  "d": "rude and insensitive",
+  "e": "His boorish comments embarrassed the hosts.",
+  "s": [
+   "crude",
+   "uncouth",
+   "churlish"
+  ]
+ },
+ {
+  "w": "brusque",
+  "p": "adj.",
+  "d": "short and rude in manner",
+  "e": "The clerk's brusque reply annoyed the customer.",
+  "s": [
+   "curt",
+   "abrupt",
+   "blunt"
+  ]
+ },
+ {
+  "w": "burgeon",
+  "p": "v.",
+  "d": "to grow or develop quickly",
+  "e": "The city's tech sector burgeoned in the 1990s.",
+  "s": [
+   "flourish",
+   "mushroom",
+   "proliferate"
+  ]
+ },
+ {
+  "w": "burnish",
+  "p": "v.",
+  "d": "to polish; to improve the appearance of",
+  "e": "The company tried to burnish its image with charity work.",
+  "s": [
+   "polish",
+   "enhance"
+  ]
+ },
+ {
+  "w": "buttress",
+  "p": "v.",
+  "d": "to support or strengthen an argument or structure",
+  "e": "She buttressed her claim with census data.",
+  "s": [
+   "bolster",
+   "reinforce",
+   "support"
+  ]
+ },
+ {
+  "w": "cacophony",
+  "p": "n.",
+  "d": "a harsh mixture of loud sounds",
+  "e": "The cacophony of car horns filled the street.",
+  "s": [
+   "din",
+   "racket",
+   "discord"
+  ]
+ },
+ {
+  "w": "cajole",
+  "p": "v.",
+  "d": "to persuade gently by flattery or repeated requests",
+  "e": "She cajoled her brother into joining the choir.",
+  "s": [
+   "coax",
+   "wheedle",
+   "blandish"
+  ]
+ },
+ {
+  "w": "callous",
+  "p": "adj.",
+  "d": "showing no concern for others' feelings",
+  "e": "The callous reply hurt the grieving family.",
+  "s": [
+   "heartless",
+   "unfeeling",
+   "insensitive"
+  ]
+ },
+ {
+  "w": "candor",
+  "p": "n.",
+  "d": "the quality of being open and honest",
+  "e": "The minister's candor about the mistakes won respect.",
+  "s": [
+   "frankness",
+   "openness",
+   "forthrightness"
+  ]
+ },
+ {
+  "w": "capitulate",
+  "p": "v.",
+  "d": "to stop resisting and give in",
+  "e": "The company capitulated to the workers' demands.",
+  "s": [
+   "surrender",
+   "yield",
+   "submit"
+  ]
+ },
+ {
+  "w": "capricious",
+  "p": "adj.",
+  "d": "changing mood or behavior suddenly and without reason",
+  "e": "The capricious weather ruined our picnic plans twice.",
+  "s": [
+   "fickle",
+   "mercurial",
+   "erratic"
+  ]
+ },
+ {
+  "w": "castigate",
+  "p": "v.",
+  "d": "to criticize or punish severely",
+  "e": "The editorial castigated the council for wasting funds.",
+  "s": [
+   "chastise",
+   "rebuke",
+   "censure"
+  ]
+ },
+ {
+  "w": "catalyst",
+  "p": "n.",
+  "d": "something that causes or speeds up change",
+  "e": "The new road was a catalyst for growth in the village.",
+  "s": [
+   "stimulus",
+   "spur",
+   "impetus"
+  ]
+ },
+ {
+  "w": "caustic",
+  "p": "adj.",
+  "d": "sarcastic in a hurtful way; able to burn chemically",
+  "e": "Her caustic wit made her a feared debater.",
+  "s": [
+   "acerbic",
+   "mordant",
+   "scathing"
+  ]
+ },
+ {
+  "w": "censure",
+  "p": "v.",
+  "d": "to express strong formal disapproval",
+  "e": "The senate censured the member for misconduct.",
+  "s": [
+   "condemn",
+   "reprimand",
+   "castigate"
+  ]
+ },
+ {
+  "w": "chary",
+  "p": "adj.",
+  "d": "cautious about doing something",
+  "e": "Investors were chary of the untested market.",
+  "s": [
+   "wary",
+   "leery",
+   "cautious"
+  ]
+ },
+ {
+  "w": "chicanery",
+  "p": "n.",
+  "d": "clever trickery used to deceive",
+  "e": "The election was marred by legal chicanery.",
+  "s": [
+   "deception",
+   "subterfuge",
+   "trickery"
+  ]
+ },
+ {
+  "w": "chimerical",
+  "p": "adj.",
+  "d": "imaginary and impossible to achieve",
+  "e": "The plan for a city on the moon seemed chimerical.",
+  "s": [
+   "fanciful",
+   "illusory",
+   "fantastic"
+  ]
+ },
+ {
+  "w": "circumspect",
+  "p": "adj.",
+  "d": "careful to consider risks before acting",
+  "e": "The circumspect investor read every report twice.",
+  "s": [
+   "cautious",
+   "prudent",
+   "wary"
+  ]
+ },
+ {
+  "w": "circumvent",
+  "p": "v.",
+  "d": "to find a way around a rule or obstacle",
+  "e": "They circumvented the traffic by taking back roads.",
+  "s": [
+   "bypass",
+   "evade",
+   "sidestep"
+  ]
+ },
+ {
+  "w": "clandestine",
+  "p": "adj.",
+  "d": "kept secret, often because it is not allowed",
+  "e": "They held clandestine meetings in a basement.",
+  "s": [
+   "covert",
+   "surreptitious",
+   "furtive"
+  ]
+ },
+ {
+  "w": "cloying",
+  "p": "adj.",
+  "d": "unpleasantly too sweet or sentimental",
+  "e": "The film's cloying ending spoiled its sharp first half.",
+  "s": [
+   "saccharine",
+   "sugary",
+   "mawkish"
+  ]
+ },
+ {
+  "w": "coalesce",
+  "p": "v.",
+  "d": "to come together to form one group or mass",
+  "e": "The scattered protests coalesced into a national movement.",
+  "s": [
+   "merge",
+   "unite",
+   "fuse"
+  ]
+ },
+ {
+  "w": "cogent",
+  "p": "adj.",
+  "d": "clear, logical and convincing",
+  "e": "She made a cogent case for a later start time.",
+  "s": [
+   "compelling",
+   "persuasive",
+   "convincing"
+  ]
+ },
+ {
+  "w": "cogitate",
+  "p": "v.",
+  "d": "to think deeply about something",
+  "e": "She cogitated for days before accepting the offer.",
+  "s": [
+   "ponder",
+   "ruminate",
+   "deliberate"
+  ]
+ },
+ {
+  "w": "collusion",
+  "p": "n.",
+  "d": "secret cooperation for a dishonest purpose",
+  "e": "The firms were fined for collusion on prices.",
+  "s": [
+   "conspiracy",
+   "connivance"
+  ]
+ },
+ {
+  "w": "commensurate",
+  "p": "adj.",
+  "d": "matching in size, amount or degree",
+  "e": "Pay should be commensurate with experience.",
+  "s": [
+   "proportionate",
+   "corresponding"
+  ]
+ },
+ {
+  "w": "compendium",
+  "p": "n.",
+  "d": "a collection of concise but detailed information",
+  "e": "The book is a compendium of folk remedies.",
+  "s": [
+   "compilation",
+   "digest"
+  ]
+ },
+ {
+  "w": "complacent",
+  "p": "adj.",
+  "d": "too satisfied with oneself to notice danger or need for improvement",
+  "e": "After two easy wins the team grew complacent.",
+  "s": [
+   "smug",
+   "self-satisfied"
+  ]
+ },
+ {
+  "w": "compliant",
+  "p": "adj.",
+  "d": "willing to obey rules or requests",
+  "e": "The compliant tenant signed every form without complaint.",
+  "s": [
+   "obedient",
+   "docile",
+   "amenable"
+  ]
+ },
+ {
+  "w": "conciliatory",
+  "p": "adj.",
+  "d": "intended to end anger or conflict",
+  "e": "He offered a conciliatory handshake after the debate.",
+  "s": [
+   "placatory",
+   "appeasing",
+   "pacific"
+  ]
+ },
+ {
+  "w": "concur",
+  "p": "v.",
+  "d": "to agree",
+  "e": "The reviewers concurred that the study was sound.",
+  "s": [
+   "agree",
+   "assent"
+  ]
+ },
+ {
+  "w": "condone",
+  "p": "v.",
+  "d": "to accept or allow behavior that is wrong",
+  "e": "The school does not condone cheating.",
+  "s": [
+   "excuse",
+   "overlook",
+   "tolerate"
+  ]
+ },
+ {
+  "w": "confound",
+  "p": "v.",
+  "d": "to confuse or surprise by not matching expectations",
+  "e": "The result confounded the experts.",
+  "s": [
+   "baffle",
+   "perplex",
+   "bewilder"
+  ]
+ },
+ {
+  "w": "conscientious",
+  "p": "adj.",
+  "d": "careful to do one's work well and thoroughly",
+  "e": "A conscientious editor checks every date.",
+  "s": [
+   "meticulous",
+   "diligent",
+   "scrupulous"
+  ]
+ },
+ {
+  "w": "construe",
+  "p": "v.",
+  "d": "to interpret in a particular way",
+  "e": "His silence was construed as agreement.",
+  "s": [
+   "interpret",
+   "read"
+  ]
+ },
+ {
+  "w": "consummate",
+  "p": "adj.",
+  "d": "showing great skill; complete or perfect",
+  "e": "He was a consummate host, remembering every guest's name.",
+  "s": [
+   "accomplished",
+   "masterly",
+   "supreme"
+  ]
+ },
+ {
+  "w": "contentious",
+  "p": "adj.",
+  "d": "likely to cause argument",
+  "e": "The new tax was a contentious issue.",
+  "s": [
+   "controversial",
+   "disputed",
+   "divisive"
+  ]
+ },
+ {
+  "w": "contrite",
+  "p": "adj.",
+  "d": "feeling sorry for having done wrong",
+  "e": "The contrite student apologized to the class.",
+  "s": [
+   "remorseful",
+   "penitent",
+   "repentant"
+  ]
+ },
+ {
+  "w": "contumacious",
+  "p": "adj.",
+  "d": "stubbornly refusing to obey authority",
+  "e": "The contumacious witness ignored the court's orders.",
+  "s": [
+   "insubordinate",
+   "defiant",
+   "rebellious"
+  ]
+ },
+ {
+  "w": "conundrum",
+  "p": "n.",
+  "d": "a confusing and difficult problem",
+  "e": "Rising costs and falling sales posed a conundrum for the firm.",
+  "s": [
+   "puzzle",
+   "dilemma",
+   "riddle"
+  ]
+ },
+ {
+  "w": "convoluted",
+  "p": "adj.",
+  "d": "extremely complex and hard to follow",
+  "e": "The contract's convoluted wording confused everyone.",
+  "s": [
+   "tortuous",
+   "intricate",
+   "labyrinthine"
+  ]
+ },
+ {
+  "w": "copious",
+  "p": "adj.",
+  "d": "abundant; in large amounts",
+  "e": "She took copious notes during the lecture.",
+  "s": [
+   "plentiful",
+   "profuse",
+   "abundant"
+  ]
+ },
+ {
+  "w": "corroborate",
+  "p": "v.",
+  "d": "to confirm with evidence",
+  "e": "Two witnesses corroborated the driver's account.",
+  "s": [
+   "confirm",
+   "substantiate",
+   "verify"
+  ]
+ },
+ {
+  "w": "credulous",
+  "p": "adj.",
+  "d": "too ready to believe things",
+  "e": "Credulous readers shared the false story widely.",
+  "s": [
+   "gullible",
+   "naive",
+   "trusting"
+  ]
+ },
+ {
+  "w": "cryptic",
+  "p": "adj.",
+  "d": "mysterious and hard to understand",
+  "e": "She left a cryptic note on the fridge.",
+  "s": [
+   "enigmatic",
+   "obscure",
+   "puzzling"
+  ]
+ },
+ {
+  "w": "culpable",
+  "p": "adj.",
+  "d": "deserving blame",
+  "e": "The report found the contractor culpable for the delay.",
+  "s": [
+   "blameworthy",
+   "guilty",
+   "responsible"
+  ]
+ },
+ {
+  "w": "cursory",
+  "p": "adj.",
+  "d": "quick and not thorough",
+  "e": "A cursory glance missed the error on page two.",
+  "s": [
+   "perfunctory",
+   "hasty",
+   "superficial"
+  ]
+ },
+ {
+  "w": "cynical",
+  "p": "adj.",
+  "d": "believing that people act mainly out of self-interest",
+  "e": "Years in politics had made him cynical about promises.",
+  "s": [
+   "skeptical",
+   "distrustful"
+  ]
+ }
+]

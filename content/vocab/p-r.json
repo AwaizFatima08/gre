@@ -1,0 +1,638 @@
+[
+ {
+  "w": "painstaking",
+  "p": "adj.",
+  "d": "done with great care and effort",
+  "e": "The painstaking survey took three years.",
+  "s": [
+   "meticulous",
+   "thorough",
+   "assiduous"
+  ]
+ },
+ {
+  "w": "palliate",
+  "p": "v.",
+  "d": "to reduce the severity of without curing",
+  "e": "The drug palliates symptoms but does not cure the disease.",
+  "s": [
+   "alleviate",
+   "ease",
+   "mitigate"
+  ]
+ },
+ {
+  "w": "paragon",
+  "p": "n.",
+  "d": "a perfect example of a quality",
+  "e": "She was a paragon of patience.",
+  "s": [
+   "model",
+   "exemplar",
+   "epitome"
+  ]
+ },
+ {
+  "w": "pariah",
+  "p": "n.",
+  "d": "a person rejected by society",
+  "e": "After the scandal he became a pariah in the industry.",
+  "s": [
+   "outcast",
+   "exile"
+  ]
+ },
+ {
+  "w": "parochial",
+  "p": "adj.",
+  "d": "having a narrow, local outlook",
+  "e": "The newspaper's parochial focus ignored world events.",
+  "s": [
+   "provincial",
+   "insular",
+   "narrow-minded"
+  ]
+ },
+ {
+  "w": "parsimonious",
+  "p": "adj.",
+  "d": "extremely unwilling to spend money",
+  "e": "The parsimonious owner refused to fix the heating.",
+  "s": [
+   "stingy",
+   "miserly",
+   "penny-pinching"
+  ]
+ },
+ {
+  "w": "partisan",
+  "p": "adj.",
+  "d": "strongly supporting one side",
+  "e": "The debate was bitterly partisan.",
+  "s": [
+   "biased",
+   "one-sided",
+   "factional"
+  ]
+ },
+ {
+  "w": "paucity",
+  "p": "n.",
+  "d": "a small amount; scarcity",
+  "e": "A paucity of evidence weakened the case.",
+  "s": [
+   "scarcity",
+   "dearth",
+   "lack"
+  ]
+ },
+ {
+  "w": "pedantic",
+  "p": "adj.",
+  "d": "too concerned with small details or rules",
+  "e": "The pedantic reviewer listed every missing comma.",
+  "s": [
+   "fussy",
+   "nitpicking",
+   "hairsplitting"
+  ]
+ },
+ {
+  "w": "pedestrian",
+  "p": "adj.",
+  "d": "lacking imagination; dull",
+  "e": "The film's pedestrian plot bored audiences.",
+  "s": [
+   "uninspired",
+   "mundane",
+   "prosaic"
+  ]
+ },
+ {
+  "w": "pellucid",
+  "p": "adj.",
+  "d": "very clear, in water or in expression",
+  "e": "Her pellucid prose made a hard subject simple.",
+  "s": [
+   "lucid",
+   "limpid",
+   "transparent"
+  ]
+ },
+ {
+  "w": "penchant",
+  "p": "n.",
+  "d": "a strong liking or tendency",
+  "e": "He has a penchant for spicy food.",
+  "s": [
+   "fondness",
+   "predilection",
+   "proclivity"
+  ]
+ },
+ {
+  "w": "penurious",
+  "p": "adj.",
+  "d": "extremely poor; or very unwilling to spend",
+  "e": "The penurious student lived on rice and beans.",
+  "s": [
+   "impoverished",
+   "destitute",
+   "stingy"
+  ]
+ },
+ {
+  "w": "perfidious",
+  "p": "adj.",
+  "d": "deceitful and disloyal",
+  "e": "The perfidious ally switched sides mid-battle.",
+  "s": [
+   "treacherous",
+   "faithless",
+   "disloyal"
+  ]
+ },
+ {
+  "w": "perfunctory",
+  "p": "adj.",
+  "d": "done quickly and without care or interest",
+  "e": "He gave the report a perfunctory read.",
+  "s": [
+   "cursory",
+   "superficial",
+   "mechanical"
+  ]
+ },
+ {
+  "w": "peripheral",
+  "p": "adj.",
+  "d": "at the edge; of minor importance",
+  "e": "The peripheral issues were left for later.",
+  "s": [
+   "marginal",
+   "secondary",
+   "tangential"
+  ]
+ },
+ {
+  "w": "pernicious",
+  "p": "adj.",
+  "d": "harmful in a gradual or hidden way",
+  "e": "The pernicious rumor damaged her career.",
+  "s": [
+   "harmful",
+   "insidious",
+   "destructive"
+  ]
+ },
+ {
+  "w": "perspicacious",
+  "p": "adj.",
+  "d": "quick to notice and understand things",
+  "e": "The perspicacious detective spotted the clue at once.",
+  "s": [
+   "astute",
+   "perceptive",
+   "shrewd"
+  ]
+ },
+ {
+  "w": "phlegmatic",
+  "p": "adj.",
+  "d": "calm and not easily excited",
+  "e": "The phlegmatic goalkeeper never panicked.",
+  "s": [
+   "unflappable",
+   "stolid",
+   "placid"
+  ]
+ },
+ {
+  "w": "placate",
+  "p": "v.",
+  "d": "to calm someone by making concessions",
+  "e": "The airline placated passengers with vouchers.",
+  "s": [
+   "appease",
+   "pacify",
+   "mollify"
+  ]
+ },
+ {
+  "w": "platitude",
+  "p": "n.",
+  "d": "a dull remark that has been said too often",
+  "e": "The speech was full of platitudes about teamwork.",
+  "s": [
+   "cliché",
+   "truism",
+   "banality"
+  ]
+ },
+ {
+  "w": "plethora",
+  "p": "n.",
+  "d": "an excessive amount",
+  "e": "A plethora of options confused the shoppers.",
+  "s": [
+   "excess",
+   "glut",
+   "surplus"
+  ]
+ },
+ {
+  "w": "polemical",
+  "p": "adj.",
+  "d": "strongly attacking or defending an opinion",
+  "e": "Her polemical essay drew angry letters.",
+  "s": [
+   "argumentative",
+   "contentious",
+   "combative"
+  ]
+ },
+ {
+  "w": "pragmatic",
+  "p": "adj.",
+  "d": "dealing with things in a practical way",
+  "e": "A pragmatic solution was better than a perfect one.",
+  "s": [
+   "practical",
+   "realistic",
+   "sensible"
+  ]
+ },
+ {
+  "w": "precarious",
+  "p": "adj.",
+  "d": "not secure; likely to fall or fail",
+  "e": "The climber held a precarious position on the ledge.",
+  "s": [
+   "unstable",
+   "risky",
+   "perilous"
+  ]
+ },
+ {
+  "w": "precipitate",
+  "p": "adj.",
+  "d": "done suddenly and without careful thought",
+  "e": "The precipitate decision led to losses.",
+  "s": [
+   "hasty",
+   "rash",
+   "impetuous"
+  ]
+ },
+ {
+  "w": "preclude",
+  "p": "v.",
+  "d": "to make impossible in advance",
+  "e": "The injury precluded her from competing.",
+  "s": [
+   "prevent",
+   "rule out",
+   "obviate"
+  ]
+ },
+ {
+  "w": "precocious",
+  "p": "adj.",
+  "d": "developed earlier than usual",
+  "e": "The precocious child read novels at five.",
+  "s": [
+   "advanced",
+   "gifted",
+   "mature"
+  ]
+ },
+ {
+  "w": "prescient",
+  "p": "adj.",
+  "d": "knowing about events before they happen",
+  "e": "Her prescient warning about the market proved right.",
+  "s": [
+   "prophetic",
+   "farsighted",
+   "visionary"
+  ]
+ },
+ {
+  "w": "prevaricate",
+  "p": "v.",
+  "d": "to avoid the truth by speaking evasively",
+  "e": "When pressed, the spokesperson prevaricated.",
+  "s": [
+   "equivocate",
+   "hedge",
+   "dodge"
+  ]
+ },
+ {
+  "w": "pristine",
+  "p": "adj.",
+  "d": "in its original, perfect condition",
+  "e": "The forest remained pristine.",
+  "s": [
+   "unspoiled",
+   "immaculate",
+   "untouched"
+  ]
+ },
+ {
+  "w": "probity",
+  "p": "n.",
+  "d": "honesty and strong moral principles",
+  "e": "The judge was known for her probity.",
+  "s": [
+   "integrity",
+   "honesty",
+   "rectitude"
+  ]
+ },
+ {
+  "w": "prodigal",
+  "p": "adj.",
+  "d": "wastefully extravagant with money",
+  "e": "The prodigal heir spent his fortune in a year.",
+  "s": [
+   "wasteful",
+   "profligate",
+   "spendthrift"
+  ]
+ },
+ {
+  "w": "profligate",
+  "p": "adj.",
+  "d": "recklessly wasteful",
+  "e": "The government was accused of profligate spending.",
+  "s": [
+   "extravagant",
+   "prodigal",
+   "wasteful"
+  ]
+ },
+ {
+  "w": "proliferate",
+  "p": "v.",
+  "d": "to increase rapidly in number",
+  "e": "Food stalls proliferated around the stadium.",
+  "s": [
+   "multiply",
+   "mushroom",
+   "burgeon"
+  ]
+ },
+ {
+  "w": "propensity",
+  "p": "n.",
+  "d": "a natural tendency to behave in a certain way",
+  "e": "He has a propensity to exaggerate.",
+  "s": [
+   "tendency",
+   "inclination",
+   "proclivity"
+  ]
+ },
+ {
+  "w": "propitiate",
+  "p": "v.",
+  "d": "to win the favor of someone by pleasing them",
+  "e": "They tried to propitiate the angry investors with a dividend.",
+  "s": [
+   "appease",
+   "placate",
+   "conciliate"
+  ]
+ },
+ {
+  "w": "prosaic",
+  "p": "adj.",
+  "d": "ordinary and lacking imagination",
+  "e": "The prosaic report listed facts without insight.",
+  "s": [
+   "dull",
+   "mundane",
+   "pedestrian"
+  ]
+ },
+ {
+  "w": "proscribe",
+  "p": "v.",
+  "d": "to forbid officially",
+  "e": "The rules proscribe phones in the exam room.",
+  "s": [
+   "prohibit",
+   "ban",
+   "forbid"
+  ]
+ },
+ {
+  "w": "prudent",
+  "p": "adj.",
+  "d": "acting with care and thought for the future",
+  "e": "It is prudent to back up your files.",
+  "s": [
+   "wise",
+   "sensible",
+   "judicious"
+  ]
+ },
+ {
+  "w": "pugnacious",
+  "p": "adj.",
+  "d": "eager to argue or fight",
+  "e": "The pugnacious host interrupted every guest.",
+  "s": [
+   "combative",
+   "belligerent",
+   "bellicose"
+  ]
+ },
+ {
+  "w": "qualify",
+  "p": "v.",
+  "d": "to limit or modify a statement",
+  "e": "She qualified her praise by noting the book's length.",
+  "s": [
+   "limit",
+   "modify",
+   "temper"
+  ]
+ },
+ {
+  "w": "quandary",
+  "p": "n.",
+  "d": "a state of uncertainty about what to do",
+  "e": "He was in a quandary over which offer to accept.",
+  "s": [
+   "dilemma",
+   "predicament"
+  ]
+ },
+ {
+  "w": "querulous",
+  "p": "adj.",
+  "d": "complaining in a whining way",
+  "e": "The querulous passenger objected to everything.",
+  "s": [
+   "peevish",
+   "petulant",
+   "fretful"
+  ]
+ },
+ {
+  "w": "quiescent",
+  "p": "adj.",
+  "d": "in a state of inactivity",
+  "e": "The disease remained quiescent for years.",
+  "s": [
+   "dormant",
+   "inactive",
+   "latent"
+  ]
+ },
+ {
+  "w": "quixotic",
+  "p": "adj.",
+  "d": "idealistic in an unrealistic way",
+  "e": "His quixotic plan to end all traffic jams never left the drawing board.",
+  "s": [
+   "idealistic",
+   "impractical",
+   "romantic"
+  ]
+ },
+ {
+  "w": "rancor",
+  "p": "n.",
+  "d": "bitter, long-lasting resentment",
+  "e": "The rancor between the families lasted generations.",
+  "s": [
+   "bitterness",
+   "resentment",
+   "animosity"
+  ]
+ },
+ {
+  "w": "rarefied",
+  "p": "adj.",
+  "d": "distant from ordinary people; thin, as in air",
+  "e": "The scholar moved in rarefied academic circles.",
+  "s": [
+   "exclusive",
+   "esoteric",
+   "lofty"
+  ]
+ },
+ {
+  "w": "recalcitrant",
+  "p": "adj.",
+  "d": "stubbornly uncooperative",
+  "e": "The recalcitrant student refused to join any group.",
+  "s": [
+   "uncooperative",
+   "defiant",
+   "intractable"
+  ]
+ },
+ {
+  "w": "recondite",
+  "p": "adj.",
+  "d": "little known; obscure",
+  "e": "The lecture covered recondite details of ancient law.",
+  "s": [
+   "abstruse",
+   "arcane",
+   "esoteric"
+  ]
+ },
+ {
+  "w": "redress",
+  "p": "v.",
+  "d": "to put right a wrong",
+  "e": "The new law aims to redress unfair pay.",
+  "s": [
+   "remedy",
+   "rectify",
+   "correct"
+  ]
+ },
+ {
+  "w": "refractory",
+  "p": "adj.",
+  "d": "stubborn and hard to control",
+  "e": "The refractory horse threw every rider.",
+  "s": [
+   "unmanageable",
+   "obstinate",
+   "recalcitrant"
+  ]
+ },
+ {
+  "w": "refute",
+  "p": "v.",
+  "d": "to prove something wrong",
+  "e": "The data refuted the old theory.",
+  "s": [
+   "disprove",
+   "rebut",
+   "invalidate"
+  ]
+ },
+ {
+  "w": "relegate",
+  "p": "v.",
+  "d": "to move to a lower position",
+  "e": "The old printer was relegated to the storage room.",
+  "s": [
+   "demote",
+   "downgrade",
+   "consign"
+  ]
+ },
+ {
+  "w": "reprobate",
+  "p": "n.",
+  "d": "a person without moral principles",
+  "e": "The novel's hero is a charming reprobate.",
+  "s": [
+   "scoundrel",
+   "rogue",
+   "miscreant"
+  ]
+ },
+ {
+  "w": "repudiate",
+  "p": "v.",
+  "d": "to refuse to accept or be linked with",
+  "e": "The party repudiated the extremist statement.",
+  "s": [
+   "reject",
+   "disown",
+   "renounce"
+  ]
+ },
+ {
+  "w": "rescind",
+  "p": "v.",
+  "d": "to cancel officially",
+  "e": "The council rescinded the parking fee.",
+  "s": [
+   "revoke",
+   "repeal",
+   "annul"
+  ]
+ },
+ {
+  "w": "reticent",
+  "p": "adj.",
+  "d": "not revealing thoughts or feelings easily",
+  "e": "She was reticent about her private life.",
+  "s": [
+   "reserved",
+   "taciturn",
+   "uncommunicative"
+  ]
+ }
+]

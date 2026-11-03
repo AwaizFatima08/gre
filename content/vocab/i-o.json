@@ -1,0 +1,987 @@
+[
+ {
+  "w": "iconoclast",
+  "p": "n.",
+  "d": "a person who attacks established beliefs or customs",
+  "e": "The iconoclast challenged every rule of classical composition.",
+  "s": [
+   "rebel",
+   "nonconformist",
+   "dissenter"
+  ]
+ },
+ {
+  "w": "idiosyncratic",
+  "p": "adj.",
+  "d": "peculiar to an individual",
+  "e": "Her idiosyncratic spelling made the letters easy to identify.",
+  "s": [
+   "distinctive",
+   "quirky",
+   "eccentric"
+  ]
+ },
+ {
+  "w": "ignominious",
+  "p": "adj.",
+  "d": "causing public shame",
+  "e": "The team suffered an ignominious defeat.",
+  "s": [
+   "humiliating",
+   "disgraceful",
+   "shameful"
+  ]
+ },
+ {
+  "w": "illicit",
+  "p": "adj.",
+  "d": "not allowed by law or custom",
+  "e": "Police seized the illicit goods.",
+  "s": [
+   "illegal",
+   "unlawful",
+   "illegitimate"
+  ]
+ },
+ {
+  "w": "imminent",
+  "p": "adj.",
+  "d": "about to happen",
+  "e": "Dark clouds warned of an imminent storm.",
+  "s": [
+   "impending",
+   "approaching",
+   "forthcoming"
+  ]
+ },
+ {
+  "w": "immutable",
+  "p": "adj.",
+  "d": "unchanging over time",
+  "e": "Some laws of physics are thought to be immutable.",
+  "s": [
+   "unchangeable",
+   "fixed",
+   "invariable"
+  ]
+ },
+ {
+  "w": "impassive",
+  "p": "adj.",
+  "d": "showing no emotion",
+  "e": "His impassive face gave nothing away.",
+  "s": [
+   "expressionless",
+   "stoic",
+   "stolid"
+  ]
+ },
+ {
+  "w": "impecunious",
+  "p": "adj.",
+  "d": "having little or no money",
+  "e": "The impecunious artist painted on old cardboard.",
+  "s": [
+   "poor",
+   "penniless",
+   "destitute"
+  ]
+ },
+ {
+  "w": "imperious",
+  "p": "adj.",
+  "d": "arrogant and expecting to be obeyed",
+  "e": "The imperious manager gave orders without explanation.",
+  "s": [
+   "domineering",
+   "overbearing",
+   "high-handed"
+  ]
+ },
+ {
+  "w": "imperturbable",
+  "p": "adj.",
+  "d": "unable to be upset or excited",
+  "e": "The imperturbable pilot calmly landed the damaged plane.",
+  "s": [
+   "composed",
+   "unflappable",
+   "serene"
+  ]
+ },
+ {
+  "w": "impervious",
+  "p": "adj.",
+  "d": "not affected by something; not allowing liquid through",
+  "e": "She seemed impervious to criticism.",
+  "s": [
+   "immune",
+   "resistant",
+   "impenetrable"
+  ]
+ },
+ {
+  "w": "impetuous",
+  "p": "adj.",
+  "d": "acting quickly without thought",
+  "e": "An impetuous decision cost him his savings.",
+  "s": [
+   "rash",
+   "impulsive",
+   "hasty"
+  ]
+ },
+ {
+  "w": "implacable",
+  "p": "adj.",
+  "d": "unable to be calmed or satisfied",
+  "e": "The implacable critic found fault with every scene.",
+  "s": [
+   "relentless",
+   "unappeasable",
+   "intransigent"
+  ]
+ },
+ {
+  "w": "implicit",
+  "p": "adj.",
+  "d": "suggested but not stated directly",
+  "e": "There was implicit criticism in her praise.",
+  "s": [
+   "implied",
+   "tacit",
+   "unspoken"
+  ]
+ },
+ {
+  "w": "impudent",
+  "p": "adj.",
+  "d": "rude and disrespectful",
+  "e": "The impudent reply earned him detention.",
+  "s": [
+   "insolent",
+   "cheeky",
+   "impertinent"
+  ]
+ },
+ {
+  "w": "inadvertent",
+  "p": "adj.",
+  "d": "not intentional; accidental",
+  "e": "An inadvertent click deleted the file.",
+  "s": [
+   "accidental",
+   "unintentional"
+  ]
+ },
+ {
+  "w": "incendiary",
+  "p": "adj.",
+  "d": "tending to stir up conflict; causing fire",
+  "e": "The incendiary pamphlet sparked riots.",
+  "s": [
+   "inflammatory",
+   "provocative",
+   "seditious"
+  ]
+ },
+ {
+  "w": "inchoate",
+  "p": "adj.",
+  "d": "just begun and not fully formed",
+  "e": "Her ideas for the novel were still inchoate.",
+  "s": [
+   "rudimentary",
+   "nascent",
+   "embryonic"
+  ]
+ },
+ {
+  "w": "incongruous",
+  "p": "adj.",
+  "d": "out of place; not in harmony",
+  "e": "A neon sign looked incongruous on the old church.",
+  "s": [
+   "inappropriate",
+   "discordant",
+   "jarring"
+  ]
+ },
+ {
+  "w": "inconsequential",
+  "p": "adj.",
+  "d": "not important",
+  "e": "The error was inconsequential to the final result.",
+  "s": [
+   "trivial",
+   "insignificant",
+   "negligible"
+  ]
+ },
+ {
+  "w": "incorrigible",
+  "p": "adj.",
+  "d": "unable to be corrected or reformed",
+  "e": "The incorrigible prankster struck again.",
+  "s": [
+   "incurable",
+   "inveterate",
+   "hopeless"
+  ]
+ },
+ {
+  "w": "indefatigable",
+  "p": "adj.",
+  "d": "never showing signs of tiredness",
+  "e": "The indefatigable volunteer worked every weekend.",
+  "s": [
+   "tireless",
+   "untiring",
+   "unflagging"
+  ]
+ },
+ {
+  "w": "indolent",
+  "p": "adj.",
+  "d": "lazy; avoiding effort",
+  "e": "The indolent cat slept through the morning.",
+  "s": [
+   "lazy",
+   "slothful",
+   "idle"
+  ]
+ },
+ {
+  "w": "ineffable",
+  "p": "adj.",
+  "d": "too great to be described in words",
+  "e": "The view from the summit was ineffable.",
+  "s": [
+   "indescribable",
+   "inexpressible"
+  ]
+ },
+ {
+  "w": "inert",
+  "p": "adj.",
+  "d": "not moving or acting; chemically inactive",
+  "e": "Helium is an inert gas.",
+  "s": [
+   "inactive",
+   "motionless",
+   "sluggish"
+  ]
+ },
+ {
+  "w": "inexorable",
+  "p": "adj.",
+  "d": "impossible to stop or prevent",
+  "e": "The inexorable rise of the tide covered the rocks.",
+  "s": [
+   "relentless",
+   "unstoppable",
+   "inevitable"
+  ]
+ },
+ {
+  "w": "ingenuous",
+  "p": "adj.",
+  "d": "innocent and trusting; open",
+  "e": "Her ingenuous enthusiasm charmed the panel.",
+  "s": [
+   "naive",
+   "artless",
+   "guileless"
+  ]
+ },
+ {
+  "w": "inimical",
+  "p": "adj.",
+  "d": "harmful or hostile",
+  "e": "Heavy debt is inimical to growth.",
+  "s": [
+   "harmful",
+   "hostile",
+   "adverse"
+  ]
+ },
+ {
+  "w": "innocuous",
+  "p": "adj.",
+  "d": "harmless; not likely to offend",
+  "e": "The question seemed innocuous but caused a row.",
+  "s": [
+   "harmless",
+   "inoffensive",
+   "benign"
+  ]
+ },
+ {
+  "w": "insipid",
+  "p": "adj.",
+  "d": "lacking flavor, interest or energy",
+  "e": "The soup was insipid without salt.",
+  "s": [
+   "bland",
+   "dull",
+   "vapid"
+  ]
+ },
+ {
+  "w": "insular",
+  "p": "adj.",
+  "d": "narrow-minded; interested only in one's own group",
+  "e": "The insular village distrusted outsiders.",
+  "s": [
+   "parochial",
+   "provincial",
+   "narrow"
+  ]
+ },
+ {
+  "w": "intractable",
+  "p": "adj.",
+  "d": "hard to control or solve",
+  "e": "The traffic problem proved intractable.",
+  "s": [
+   "unmanageable",
+   "stubborn",
+   "obstinate"
+  ]
+ },
+ {
+  "w": "intransigent",
+  "p": "adj.",
+  "d": "refusing to change one's views",
+  "e": "Both sides remained intransigent, so talks failed.",
+  "s": [
+   "uncompromising",
+   "obstinate",
+   "inflexible"
+  ]
+ },
+ {
+  "w": "intrepid",
+  "p": "adj.",
+  "d": "fearless and adventurous",
+  "e": "Intrepid explorers crossed the ice sheet.",
+  "s": [
+   "fearless",
+   "bold",
+   "dauntless"
+  ]
+ },
+ {
+  "w": "inundate",
+  "p": "v.",
+  "d": "to overwhelm with large amounts; to flood",
+  "e": "The office was inundated with applications.",
+  "s": [
+   "flood",
+   "swamp",
+   "overwhelm"
+  ]
+ },
+ {
+  "w": "inured",
+  "p": "adj.",
+  "d": "accustomed to something unpleasant",
+  "e": "Years in the city had inured her to the noise.",
+  "s": [
+   "hardened",
+   "accustomed",
+   "habituated"
+  ]
+ },
+ {
+  "w": "invective",
+  "p": "n.",
+  "d": "insulting or abusive language",
+  "e": "The debate dissolved into invective.",
+  "s": [
+   "abuse",
+   "vituperation",
+   "vitriol"
+  ]
+ },
+ {
+  "w": "irascible",
+  "p": "adj.",
+  "d": "easily made angry",
+  "e": "The irascible editor shouted at interns.",
+  "s": [
+   "irritable",
+   "testy",
+   "choleric"
+  ]
+ },
+ {
+  "w": "irresolute",
+  "p": "adj.",
+  "d": "unable to decide",
+  "e": "The irresolute leader postponed the choice again.",
+  "s": [
+   "indecisive",
+   "hesitant",
+   "vacillating"
+  ]
+ },
+ {
+  "w": "itinerant",
+  "p": "adj.",
+  "d": "traveling from place to place",
+  "e": "Itinerant musicians played at village fairs.",
+  "s": [
+   "wandering",
+   "nomadic",
+   "peripatetic"
+  ]
+ },
+ {
+  "w": "jaded",
+  "p": "adj.",
+  "d": "tired or bored from having too much of something",
+  "e": "Jaded by years of travel, he barely noticed the view.",
+  "s": [
+   "weary",
+   "sated",
+   "blasé"
+  ]
+ },
+ {
+  "w": "jocular",
+  "p": "adj.",
+  "d": "fond of joking; humorous",
+  "e": "His jocular manner relaxed the nervous candidates.",
+  "s": [
+   "playful",
+   "witty",
+   "facetious"
+  ]
+ },
+ {
+  "w": "judicious",
+  "p": "adj.",
+  "d": "showing good judgment",
+  "e": "A judicious use of color brightened the room.",
+  "s": [
+   "wise",
+   "prudent",
+   "sensible"
+  ]
+ },
+ {
+  "w": "juxtapose",
+  "p": "v.",
+  "d": "to place side by side for comparison",
+  "e": "The exhibit juxtaposes old and new maps of the city.",
+  "s": [
+   "contrast",
+   "compare"
+  ]
+ },
+ {
+  "w": "laconic",
+  "p": "adj.",
+  "d": "using very few words",
+  "e": "His laconic reply, a single \"no\", ended the meeting.",
+  "s": [
+   "terse",
+   "succinct",
+   "pithy"
+  ]
+ },
+ {
+  "w": "lambaste",
+  "p": "v.",
+  "d": "to criticize harshly",
+  "e": "The editorial lambasted the city's slow response.",
+  "s": [
+   "berate",
+   "castigate",
+   "excoriate"
+  ]
+ },
+ {
+  "w": "languid",
+  "p": "adj.",
+  "d": "slow and relaxed; lacking energy",
+  "e": "The languid afternoon passed in the shade.",
+  "s": [
+   "listless",
+   "lethargic",
+   "sluggish"
+  ]
+ },
+ {
+  "w": "largess",
+  "p": "n.",
+  "d": "generous giving of money or gifts",
+  "e": "The museum depended on the largess of a few donors.",
+  "s": [
+   "generosity",
+   "munificence",
+   "liberality"
+  ]
+ },
+ {
+  "w": "latent",
+  "p": "adj.",
+  "d": "present but not yet visible or active",
+  "e": "She had a latent talent for drawing.",
+  "s": [
+   "dormant",
+   "hidden",
+   "potential"
+  ]
+ },
+ {
+  "w": "laud",
+  "p": "v.",
+  "d": "to praise highly",
+  "e": "Critics lauded the young author's first novel.",
+  "s": [
+   "extol",
+   "acclaim",
+   "commend"
+  ]
+ },
+ {
+  "w": "lethargic",
+  "p": "adj.",
+  "d": "sluggish and without energy",
+  "e": "The heat made everyone lethargic.",
+  "s": [
+   "sluggish",
+   "listless",
+   "torpid"
+  ]
+ },
+ {
+  "w": "levity",
+  "p": "n.",
+  "d": "lack of seriousness; humor",
+  "e": "A moment of levity eased the tense meeting.",
+  "s": [
+   "humor",
+   "frivolity",
+   "lightheartedness"
+  ]
+ },
+ {
+  "w": "lionize",
+  "p": "v.",
+  "d": "to treat someone as a celebrity",
+  "e": "The press lionized the young scientist.",
+  "s": [
+   "celebrate",
+   "glorify",
+   "idolize"
+  ]
+ },
+ {
+  "w": "loquacious",
+  "p": "adj.",
+  "d": "very talkative",
+  "e": "The loquacious tour guide never ran out of stories.",
+  "s": [
+   "garrulous",
+   "talkative",
+   "voluble"
+  ]
+ },
+ {
+  "w": "lucid",
+  "p": "adj.",
+  "d": "clear and easy to understand",
+  "e": "She gave a lucid explanation of the theory.",
+  "s": [
+   "clear",
+   "intelligible",
+   "pellucid"
+  ]
+ },
+ {
+  "w": "lugubrious",
+  "p": "adj.",
+  "d": "looking or sounding sad and gloomy",
+  "e": "The actor's lugubrious voice suited the tragic role.",
+  "s": [
+   "mournful",
+   "doleful",
+   "somber"
+  ]
+ },
+ {
+  "w": "magnanimous",
+  "p": "adj.",
+  "d": "generous and forgiving, especially toward a rival",
+  "e": "The winner was magnanimous in victory.",
+  "s": [
+   "generous",
+   "charitable",
+   "big-hearted"
+  ]
+ },
+ {
+  "w": "malign",
+  "p": "v.",
+  "d": "to say harmful untrue things about",
+  "e": "He maligned his former partner in interviews.",
+  "s": [
+   "slander",
+   "defame",
+   "disparage"
+  ]
+ },
+ {
+  "w": "malleable",
+  "p": "adj.",
+  "d": "easily shaped or influenced",
+  "e": "Gold is a malleable metal.",
+  "s": [
+   "pliable",
+   "flexible",
+   "ductile"
+  ]
+ },
+ {
+  "w": "maverick",
+  "p": "n.",
+  "d": "an independent person who does not follow the group",
+  "e": "The maverick senator often voted against her party.",
+  "s": [
+   "nonconformist",
+   "individualist",
+   "iconoclast"
+  ]
+ },
+ {
+  "w": "mendacious",
+  "p": "adj.",
+  "d": "not telling the truth; lying",
+  "e": "The mendacious advertisement was banned.",
+  "s": [
+   "lying",
+   "deceitful",
+   "dishonest"
+  ]
+ },
+ {
+  "w": "mercurial",
+  "p": "adj.",
+  "d": "changing mood or mind quickly and unpredictably",
+  "e": "The mercurial director rewrote the script daily.",
+  "s": [
+   "volatile",
+   "capricious",
+   "fickle"
+  ]
+ },
+ {
+  "w": "meticulous",
+  "p": "adj.",
+  "d": "showing great attention to detail",
+  "e": "The meticulous restorer cleaned the painting inch by inch.",
+  "s": [
+   "painstaking",
+   "scrupulous",
+   "fastidious"
+  ]
+ },
+ {
+  "w": "misanthrope",
+  "p": "n.",
+  "d": "a person who dislikes people in general",
+  "e": "The old misanthrope rarely left his cabin.",
+  "s": [
+   "cynic",
+   "recluse"
+  ]
+ },
+ {
+  "w": "mitigate",
+  "p": "v.",
+  "d": "to make less severe",
+  "e": "Planting trees can mitigate summer heat in cities.",
+  "s": [
+   "alleviate",
+   "lessen",
+   "ease"
+  ]
+ },
+ {
+  "w": "mollify",
+  "p": "v.",
+  "d": "to calm someone's anger",
+  "e": "A refund mollified the angry customer.",
+  "s": [
+   "appease",
+   "placate",
+   "pacify"
+  ]
+ },
+ {
+  "w": "morose",
+  "p": "adj.",
+  "d": "sullen and gloomy",
+  "e": "He became morose after losing the match.",
+  "s": [
+   "sullen",
+   "gloomy",
+   "glum"
+  ]
+ },
+ {
+  "w": "mundane",
+  "p": "adj.",
+  "d": "ordinary and dull",
+  "e": "She enjoyed escaping her mundane routine.",
+  "s": [
+   "ordinary",
+   "humdrum",
+   "commonplace"
+  ]
+ },
+ {
+  "w": "munificent",
+  "p": "adj.",
+  "d": "very generous",
+  "e": "A munificent gift paid for the new wing.",
+  "s": [
+   "generous",
+   "lavish",
+   "bountiful"
+  ]
+ },
+ {
+  "w": "myriad",
+  "p": "adj.",
+  "d": "countless; extremely many",
+  "e": "The reef supports myriad species of fish.",
+  "s": [
+   "countless",
+   "innumerable",
+   "multitudinous"
+  ]
+ },
+ {
+  "w": "nascent",
+  "p": "adj.",
+  "d": "just beginning to exist or develop",
+  "e": "The nascent industry had few regulations.",
+  "s": [
+   "emerging",
+   "budding",
+   "incipient"
+  ]
+ },
+ {
+  "w": "nebulous",
+  "p": "adj.",
+  "d": "vague and unclear",
+  "e": "The plan's goals were nebulous.",
+  "s": [
+   "vague",
+   "hazy",
+   "amorphous"
+  ]
+ },
+ {
+  "w": "nefarious",
+  "p": "adj.",
+  "d": "wicked or criminal",
+  "e": "The villain's nefarious scheme failed.",
+  "s": [
+   "wicked",
+   "villainous",
+   "heinous"
+  ]
+ },
+ {
+  "w": "neophyte",
+  "p": "n.",
+  "d": "a beginner",
+  "e": "The neophyte gardener planted bulbs upside down.",
+  "s": [
+   "novice",
+   "beginner",
+   "tyro"
+  ]
+ },
+ {
+  "w": "nonchalant",
+  "p": "adj.",
+  "d": "calm and relaxed, seeming not to care",
+  "e": "She was nonchalant about the results.",
+  "s": [
+   "casual",
+   "unconcerned",
+   "blasé"
+  ]
+ },
+ {
+  "w": "notorious",
+  "p": "adj.",
+  "d": "famous for something bad",
+  "e": "The road was notorious for accidents.",
+  "s": [
+   "infamous",
+   "disreputable"
+  ]
+ },
+ {
+  "w": "obdurate",
+  "p": "adj.",
+  "d": "stubbornly refusing to change",
+  "e": "The obdurate official would not reconsider.",
+  "s": [
+   "obstinate",
+   "intransigent",
+   "unyielding"
+  ]
+ },
+ {
+  "w": "obfuscate",
+  "p": "v.",
+  "d": "to make unclear on purpose",
+  "e": "The report obfuscated the real costs.",
+  "s": [
+   "obscure",
+   "cloud",
+   "confuse"
+  ]
+ },
+ {
+  "w": "oblique",
+  "p": "adj.",
+  "d": "indirect; slanting",
+  "e": "She made an oblique reference to the scandal.",
+  "s": [
+   "indirect",
+   "roundabout",
+   "implied"
+  ]
+ },
+ {
+  "w": "obscure",
+  "p": "adj.",
+  "d": "not well known; hard to understand",
+  "e": "The poem contains an obscure reference to a minor myth.",
+  "s": [
+   "unclear",
+   "little-known",
+   "arcane"
+  ]
+ },
+ {
+  "w": "obsequious",
+  "p": "adj.",
+  "d": "too eager to please or obey",
+  "e": "The obsequious waiter refilled our glasses after every sip.",
+  "s": [
+   "servile",
+   "sycophantic",
+   "fawning"
+  ]
+ },
+ {
+  "w": "obstinate",
+  "p": "adj.",
+  "d": "stubbornly refusing to change",
+  "e": "The obstinate mule would not move.",
+  "s": [
+   "stubborn",
+   "obdurate",
+   "intractable"
+  ]
+ },
+ {
+  "w": "obviate",
+  "p": "v.",
+  "d": "to remove a need or difficulty",
+  "e": "The new bridge obviates the need for a ferry.",
+  "s": [
+   "preclude",
+   "prevent",
+   "avert"
+  ]
+ },
+ {
+  "w": "occlude",
+  "p": "v.",
+  "d": "to block or close up",
+  "e": "A fallen tree occluded the path.",
+  "s": [
+   "obstruct",
+   "block",
+   "clog"
+  ]
+ },
+ {
+  "w": "officious",
+  "p": "adj.",
+  "d": "too eager to give orders or offer unwanted help",
+  "e": "The officious guard checked our tickets three times.",
+  "s": [
+   "meddlesome",
+   "interfering",
+   "intrusive"
+  ]
+ },
+ {
+  "w": "onerous",
+  "p": "adj.",
+  "d": "heavy and burdensome",
+  "e": "The new rules placed onerous demands on small firms.",
+  "s": [
+   "burdensome",
+   "arduous",
+   "taxing"
+  ]
+ },
+ {
+  "w": "opaque",
+  "p": "adj.",
+  "d": "not transparent; hard to understand",
+  "e": "The company's accounts were opaque to investors.",
+  "s": [
+   "cloudy",
+   "unclear",
+   "obscure"
+  ]
+ },
+ {
+  "w": "opprobrium",
+  "p": "n.",
+  "d": "harsh public criticism or disgrace",
+  "e": "The decision drew international opprobrium.",
+  "s": [
+   "condemnation",
+   "censure",
+   "disgrace"
+  ]
+ },
+ {
+  "w": "ossify",
+  "p": "v.",
+  "d": "to become rigid and unable to change",
+  "e": "Without new members, the club's traditions ossified.",
+  "s": [
+   "harden",
+   "stagnate",
+   "fossilize"
+  ]
+ },
+ {
+  "w": "ostentatious",
+  "p": "adj.",
+  "d": "showy, designed to impress",
+  "e": "The ostentatious mansion had gold faucets.",
+  "s": [
+   "showy",
+   "flamboyant",
+   "pretentious"
+  ]
+ }
+]

@@ -1,0 +1,27 @@
+{
+  "_note": "AdMob config for Prep Simulator for GRE (Android). Created 4 Nov 2026 in the AdMob account homilabs.smc@gmail.com. Ad ids are not secrets; debug builds use Google's sample ids and release builds these.",
+  "account": "homilabs.smc@gmail.com",
+  "publisher_id": "pub-2087846699268567",
+  "app": {
+    "name": "Prep Simulator for GRE",
+    "platform": "android",
+    "app_id": "ca-app-pub-2087846699268567~4316606727",
+    "status": "requires review (link the Play listing once published)"
+  },
+  "ad_units": {
+    "home_banner": {
+      "name": "gre_home_banner",
+      "format": "banner",
+      "id": "ca-app-pub-2087846699268567/8866013791",
+      "placement": "Home tabs only"
+    },
+    "results_interstitial": {
+      "name": "gre_results_interstitial",
+      "format": "interstitial",
+      "id": "ca-app-pub-2087846699268567/4906412477",
+      "placement": "when leaving a results screen or a finished practice set; at most once every 5 minutes; never during a mock, practice question or review"
+    }
+  },
+  "app_ads_txt": "google.com, pub-2087846699268567, DIRECT, f08c47fec0942fa0",
+  "consent": "Google UMP before SDK init"
+}

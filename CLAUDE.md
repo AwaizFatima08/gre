@@ -10,7 +10,7 @@ Built on the NLE/NTS engine, reworked for GRE question types.
 - Code: `/mnt/storage/projects/gre` · GitHub `AwaizFatima08/gre` (PUBLIC repo: no secrets)
 - Local backup: `/mnt/storage/project_backups/gre_backup` · Google Drive: https://drive.google.com/drive/folders/1qX-l2SJuS0QP12FsWou9-OYZ1x4Cc6q7
 - Backups: `bash scripts/backup.sh` (all three layers)
-- Site: https://gre.homilabs.org (Hostinger subdomain, `public_html/gre`), source in `website/`, `bash scripts/publish-site.sh`
+- Site: https://gre.homilabs.org (Hostinger `public_html/gre`, a checkout of the `deploy` branch), source in `website/`, `bash scripts/publish-site.sh`
 
 ## Exam format (ets.org, checked 4 Nov 2026)
 Analytical Writing first (one Issue task, 30 min), then Verbal (12 q/18 min, 15 q/23 min) and Quant (12 q/21 min,

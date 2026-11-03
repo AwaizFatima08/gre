@@ -8,8 +8,8 @@
 
 ## Website: https://gre.homilabs.org
 - Hostinger: subdomain `gre.homilabs.org` created 4 Nov 2026 (folder `public_html/gre` of the homilabs.org website).
-- Connect Git deployment (hPanel → homilabs.org → GIT) to `https://github.com/AwaizFatima08/gre`, branch `deploy`, directory `public_html/gre`, with auto-deployment, as for nts.
-- Change `website/`, commit, then `bash scripts/publish-site.sh`. Flush the CDN cache in hPanel if pages look stale.
+- `public_html/gre` is a git checkout of this repo's `deploy` branch (cloned over SSH, as for nts; hPanel's one Git slot for homilabs.org belongs to the games site).
+- Change `website/`, commit, then `bash scripts/publish-site.sh` (pushes `deploy`, then pulls it on the server over SSH). Flush the CDN cache in hPanel if pages look stale.
 - Pages: landing, `/privacy.html`, `/terms.html`, `/app-ads.txt`.
 - After Play launch: replace "Coming soon on Google Play" with the Play link, and add the app to homilabs.org.
 

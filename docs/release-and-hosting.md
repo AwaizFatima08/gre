@@ -70,3 +70,11 @@ Prep Simulator for GRE is independent practice material by HomiLabs. GRE® is a 
 ## Before production (open items)
 - Homi reviews the content flags in `docs/review-flags.md` and spot-checks mocks.
 - Phone screenshots (2-8) for the listing.
+
+## Play Console state (4 Nov 2026)
+- App created: Prep Simulator for GRE, `com.homilabs.gre_prep`, console app id 4976119385251798221 (Homilabs organization account).
+- App content all done: privacy policy, ads (yes), sign-in details (none), content rating (IARC: Everyone, PEGI 3, educational), target age 18+, data safety (AdMob SDK: approximate location, app interactions, crash logs, diagnostics, other performance data, device IDs; collected and shared for analytics, advertising, fraud prevention; encrypted in transit; no accounts), advertising ID (yes), government (no), financial (none), health (none).
+- Store settings: category Education, email homilabs.smc@gmail.com, website https://gre.homilabs.org.
+- Store listing: name, short and full description, icon and feature graphic (fetched from the public repo's `store-assets/`). Saved as draft.
+- Production: 178 countries. Draft release "1.0.0 (1)" with release notes, **no bundle attached yet**.
+- Browser notes: Play file inputs can't take local files in the built-in browser, and the page's policy blocks fetching from localhost. Images work from raw.githubusercontent.com; the `.aab` must be uploaded by hand.

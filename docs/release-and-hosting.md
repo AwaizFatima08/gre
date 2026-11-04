@@ -17,7 +17,7 @@
 ## AdMob (account homilabs.smc@gmail.com)
 - Created 4 Nov 2026: app "Prep Simulator for GRE", App ID `ca-app-pub-2087846699268567~4316606727`; units banner `gre_home_banner` and interstitial `gre_results_interstitial` (ids in `config/admob.json`). Debug builds use Google test units.
 - "Limited ad serving" until the Play listing is live. After launch: AdMob → Apps → this app → Add store (com.homilabs.gre_prep).
-- Privacy & messaging: the account's European regulations message covers EEA/UK users (the app runs Google UMP).
+- Privacy & messaging: European regulations messages are per app, not account-wide. "Prep Simulator for GRE consent" (this app only, privacy URL https://gre.homilabs.org/privacy.html, "Do not consent" on for all countries) published 4 Nov 2026. Without it the app's Google UMP request fails with "no form(s) configured for the input app ID".
 
 ## Play Console
 | Item | Value |

@@ -4,7 +4,8 @@
 - Package `com.homilabs.gre_prep` (locked after the first Play upload). Version 1.0.0 (versionCode 1).
 - Build: `jobq run --name gre-release-aab -- flutter build appbundle --release`, then `./gradlew --stop` in `android/`.
 - Before every release: `bash scripts/check-release-ad-ids.sh`, `python3 tool/validate.py`, `flutter test`.
-- Signing: `android/key.properties` → `.secrets/gre-upload.keystore` (not created yet). `.secrets/` goes to the local and Drive backups, never GitHub.
+- Signing: upload key created 4 Nov 2026: `.secrets/gre-upload.keystore` (alias `gre-upload`, RSA 2048, valid 10,000 days), passwords in `.secrets/gre-upload-keystore-credentials.txt`, read by `android/key.properties`. Certificate SHA-256 `08:80:A4:AB:1C:6F:08:20:D7:FB:07:E6:D3:2C:E8:10:0F:85:3D:1C:BF:60:1A:E2:C5:2F:35:FE:0D:24:87:BD`. `.secrets/` goes to the local and Drive backups, never GitHub. Losing it means asking Play support for an upload-key reset.
+- Release 1.0.0+1 built 4 Nov 2026: `releases/1.0.0+1/gre-prep-1.0.0+1.aab` (upload this to Play) and `.apk` (sideload test). Smoke-tested on the emulator.
 
 ## Website: https://gre.homilabs.org
 - Hostinger: subdomain `gre.homilabs.org` created 4 Nov 2026 (folder `public_html/gre` of the homilabs.org website).

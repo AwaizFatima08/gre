@@ -76,5 +76,7 @@ Prep Simulator for GRE is independent practice material by HomiLabs. GRE® is a 
 - App content all done: privacy policy, ads (yes), sign-in details (none), content rating (IARC: Everyone, PEGI 3, educational), target age 18+, data safety (AdMob SDK: approximate location, app interactions, crash logs, diagnostics, other performance data, device IDs; collected and shared for analytics, advertising, fraud prevention; encrypted in transit; no accounts), advertising ID (yes), government (no), financial (none), health (none).
 - Store settings: category Education, email homilabs.smc@gmail.com, website https://gre.homilabs.org.
 - Store listing: name, short and full description, icon, feature graphic and 6 phone screenshots (`store-assets/screenshots/`, 1080x1920, from the release build on the emulator). AI asset declaration: not labelled (graphics drawn by `tool/make_icon.py`). Ready to send for review.
-- Production: 178 countries. Draft release "1.0.0 (1)" with release notes, **no bundle attached yet**.
+- Production: 178 countries, release "1.0.0 (1)" (bundle version 1, API 24+, target SDK 36, 11.9 MB install), full rollout.
+- **Sent for review 4 Nov 2026** (11 changes, managed publishing off: goes live on approval, usually within 7 days).
+- After it is live: add the Play store link to the AdMob app, replace "Coming soon" on gre.homilabs.org with the Play link.
 - Browser notes: Play file inputs can't take local files in the built-in browser, and the page's policy blocks fetching from localhost. Images work from raw.githubusercontent.com; the `.aab` must be uploaded by hand.

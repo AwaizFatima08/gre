@@ -78,5 +78,9 @@ Prep Simulator for GRE is independent practice material by HomiLabs. GRE® is a 
 - Store listing: name, short and full description, icon, feature graphic and 6 phone screenshots (`store-assets/screenshots/`, 1080x1920, from the release build on the emulator). AI asset declaration: not labelled (graphics drawn by `tool/make_icon.py`). Ready to send for review.
 - Production: 178 countries, release "1.0.0 (1)" (bundle version 1, API 24+, target SDK 36, 11.9 MB install), full rollout.
 - **Sent for review 4 Nov 2026** (11 changes, managed publishing off: goes live on approval, usually within 7 days).
-- After it is live: add the Play store link to the AdMob app, replace "Coming soon" on gre.homilabs.org with the Play link.
+- **Live on Google Play 6 Nov 2026**: https://play.google.com/store/apps/details?id=com.homilabs.gre_prep
+- AdMob app linked to the Play listing (6 Nov). app-ads.txt verification first said "details don't match" although
+  gre.homilabs.org/app-ads.txt and homilabs.org/app-ads.txt both serve the exact line AdMob asks for (text/plain);
+  most likely the crawler had not read them since the app went live. Re-check in AdMob → Apps → GRE → App settings.
+- gre.homilabs.org shows "Get it on Google Play" (was "Coming soon").
 - Browser notes: Play file inputs can't take local files in the built-in browser, and the page's policy blocks fetching from localhost. Images work from raw.githubusercontent.com; the `.aab` must be uploaded by hand.

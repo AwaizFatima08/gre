@@ -83,4 +83,5 @@ Prep Simulator for GRE is independent practice material by HomiLabs. GRE® is a 
   gre.homilabs.org/app-ads.txt and homilabs.org/app-ads.txt both serve the exact line AdMob asks for (text/plain);
   most likely the crawler had not read them since the app went live. Re-check in AdMob → Apps → GRE → App settings.
 - gre.homilabs.org shows "Get it on Google Play" (was "Coming soon").
+- AdMob app-ads.txt verified 7 Nov 2026 (AdMob → App settings → Verify app). Approval status still "Requires review" (2–3 days typical).
 - Browser notes: Play file inputs can't take local files in the built-in browser, and the page's policy blocks fetching from localhost. Images work from raw.githubusercontent.com; the `.aab` must be uploaded by hand.
